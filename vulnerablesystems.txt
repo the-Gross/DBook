@@ -1,0 +1,149 @@
+�=50;vulnerable systems=400
+1;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to"
+2;"File Upload Manager v1.3" "rename to"
+3;"Mail-it Now!" intitle:"Contact form" | inurl:contact.php
+4;"Please re-enter your password It must match exactly"
+5;"Powered By: Simplicity oF Upload" inurl:download.php | inurl:upload.php
+6;"Powered by FlexPHPNews" inurl:news | inurl:press
+7;"Powered by FunkBoard"
+8;"Powered by Gravity Board"
+9;"Powered by Land Down Under 601"
+10;"Powered by PHPFM" filetype:php -username
+11;"Powered by SilverNews"
+12;"Powered by Xcomic"
+13;"Powered by: vBulletin Version 1.1.5"
+14;"Select a database to view" intitle:"filemaker pro"
+15;"There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row
+16;"Warning:" "Cannot execute a blank command in"
+17;"Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
+18;"Welcome to Intranet"
+19;"Welcome to PHP-Nuke" congratulations
+20;"Welcome to the Prestige Web-Based Configurator"
+21;"YaBB SE Dev Team"
+22;"[ phpinfo ]  [ php.ini ]  [ cpu ]  [ mem ]  [ users ]  [ tmp ]  [ delete ]"
+23;"adding new user" inurl:addnewuser -"there are no domains"
+24;"create the Super User" "now by clicking here"
+25;"e107.org 2002/2003" inurl:forum_post.php?nt
+26;"ftp://" "www.eastgame.net"
+27;"html allowed" guestbook
+28;"index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+29;"maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+30;"powered by YellDL"
+31;"powered by mailgust"
+32;"powered by my little forum"
+33;"r57shell 1.4"
+34;"r57shell"
+35;"safe_mode: *  PHP version: *  cURL: *  MySQL: *  MSSQL: *  PostgreSQL: *  Oracle: *"
+36;"set up the administrator user" inurl:pivot
+37;"www.*.com - c99shell" OR "www.*.net - c99shell" OR "www.*.org - c99shell"
+38;"you can now password" | "this is a special page only seen by you. your profile visitors"  inurl:imchaos
+39;("Indexed.By"|"Monitored.By") hAcxFtpScan
+40;(intitle:"SHOUTcast Administrator")|(intext:"U SHOUTcast D.N.A.S. Status")
+41;(intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=")
+42;(inurl:81/cgi-bin/.cobalt/)  | (intext:"Welcome to the Cobalt RaQ")
+43;allintext:"fs-admin.php"
+44;allinurl:"index.php" "site=sglinks"
+45;ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site:duware.com
+46;ext:asp inurl:DUgallery intitle:"3.0" -site:dugall
+47;ezBOO "Administrator Panel" -cvs
+48;filetype:cgi inurl:"Web_Store.cgi"
+49;filetype:cgi inurl:"fileman.cgi"
+50;filetype:mdb "standard jet" (password | username | user | pass)
+51;filetype:mdb inurl:"news/news"
+52;filetype:php HAXPLORER "Server Files Browser"
+53;filetype:php inurl:"viewfile" -"index.php" -"idfil
+54;filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+55;filetype:pl intitle:"Ultraboard Setup"
+56;intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -Forums
+57;intitle:"ASP FileMan" Resend -site:iisworks.com
+58;intitle:"CJ Link Out V1"
+59;intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo
+60;intitle:"Directory Listing" "tree view"
+61;intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:"
+62;intitle:"Gallery in Configuration mode"
+63;intitle:"Gateway Configuration Menu"
+64;intitle:"Horde :: My Portal" -"[Tickets"
+65;intitle:"Index of /" modified php.exe
+66;intitle:"Mail Server CMailServer Webmail" "5.2"
+67;intitle:"MvBlog powered"
+68;intitle:"PHP Explorer" ext:php (inurl:phpexplorer.php |  inurl:list.php | inurl:browse.php)
+69;intitle:"PHP Shell *" "Enable stderr" filetype:php
+70;intitle:"PHPstat" intext:"Browser" intext:"PHPstat setup"
+71;intitle:"Remote Desktop Web Connection"
+72;intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet"
+73;intitle:"Samba Web Administration Tool" intext:"Help Workgroup"
+74;intitle:"Terminal Services Web Connection"
+75;intitle:"Uploader - Uploader v6" -pixloads.com
+76;intitle:"Web Data Administrator - Login"
+77;intitle:"YALA: Yet Another LDAP Administrator"
+78;intitle:"[EasyPHP] - Administration"
+79;intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login
+80;intitle:"phpremoteview" filetype:php "Name, Size,
+81;intitle:Locus7shell intext:"Software:"
+82;intitle:gallery inurl:setup "Gallery configuration"
+83;intitle:mywebftp "Please enter your password"
+84;intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site:oscommerce.com
+85;intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
+86;inurl:" WWWADMIN.PL" intitle:"wwwadmin"
+87;inurl:"/NSearch/AdminServlet"
+88;inurl:"amfphp/browser/servicebrowser.swf"
+89;inurl:"index.php?module=ew_filemanager"
+90;inurl:"nph-proxy.cgi" "Start browsing through this CGI-based proxy"
+91;inurl:"phpOracleAdmin/php" -download -cvs
+92;inurl:"plog/register.php"
+93;inurl:"simplenews/admin"
+94;inurl:"tmtrack.dll?"
+95;inurl:guestbook/guestbooklist.asp "Post Date" From
+96;inurl:newsdesk.cgi? inurl:"t="
+97;inurl:php intitle:"Cpanel , FTP CraCkeR"
+98;inurl:shop "Hassan Consulting's Shopping Cart Version 1.18"
+99;inurl:updown.php | intext:"Powered by PHP Uploader Downloader"
+100;(inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=)
+101;#���?
+102;MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON
+103;PHPFreeNews inurl:Admin.php
+104;PHPKonsole PHPShell filetype:php -echo
+105;XOOPS Custom Installation
+106;allinurl:forcedownload.php?file=
+107;allinurl:install/install.php
+108;allinurl:intranet admin
+109;ext:cgi inurl:ubb6_test.cgi
+110;filetype:cgi inurl:cachemgr.cgi
+111;filetype:cnf my.cnf -cvs -example
+112;filetype:inc inc intext:setcookie
+113;filetype:lit lit (books|ebooks)
+114;filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana
+115;filetype:php inurl:tiki-index.php +sirius +1.9.*
+116;filetype:php inurl:vAuthenticate
+117;filetype:wsdl wsdl
+118;http://www.google.com/search?q=inurl%3Aindex.php%3Fpagedb%3Drss
+119;intitle:#k4raeL - sh3LL
+120;intitle:MyShell 1.1.0 build 20010923
+121;intitle:admin intitle:login
+122;intitle:cyber anarchy shell
+123;intitle:m1n1 1.01
+124;inurl:/vb/install/install.php
+125;inurl:/vb/install/upgrade.php
+126;inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx
+127;inurl:ManyServers.htm
+128;inurl:aol*/_do/rss_popup?blogID=
+129;inurl:cartwiz/store/index.asp
+130;inurl:cgi-bin inurl:bigate.cgi
+131;inurl:cgi.asx?StoreID
+132;inurl:changepassword.cgi -cvs
+133;inurl:click.php intext:PHPClickLog
+134;inurl:footer.inc.php
+135;inurl:info.inc.php
+136;inurl:nquser.php filetype:php
+137;inurl:php.exe filetype:exe -example.com
+138;inurl:pls/admin_/gateway.htm
+139;inurl:polly/CP
+140;inurl:robpoll.cgi filetype:cgi
+141;inurl:rpSys.html
+142;inurl:search.php vbulletin
+143;inurl:servlet/webacc
+144;inurl:view.php?board1_sn=
+145;ionCube Loader Wizard information disclosure
+146;link:http://www.toastforums.com/
+147;natterchat inurl:home.asp -site:natterchat.co.uk
+148;vBulletin Install Page Detection

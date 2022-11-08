@@ -1,0 +1,71 @@
+¹=50;Errors=400
+1;"A syntax error has occurred" filetype:ihtml
+2;"ASP.NET_SessionId" "data source="
+3;"An illegal character has been found in the statement" -"previous message"
+4;"Can't connect to local" intitle:warning
+5;"Chatologica MetaSearch" "stack tracking:"
+6;"Error Diagnostic Information" intitle:"Error Occurred While"
+7;"Fatal error: Call to undefined function" -reply -the -next
+8;"Incorrect syntax near" -the
+9;"Incorrect syntax near"
+10;"Internal Server Error" "server at"
+11;"Invision Power Board Database Error"
+12;"ORA-00921: unexpected end of SQL command"
+13;"ORA-00933: SQL command not properly ended"
+14;"ORA-00936: missing expression"
+15;"ORA-12541: TNS:no listener" intitle:"error occurred"
+16;"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php
+17;"PostgreSQL query failed:  ERROR:  parser: parse error"
+18;"Supplied argument is not a valid MySQL result resource"
+19;"Supplied argument is not a valid PostgreSQL result"
+20;"Syntax error in query expression " -the
+21;"The script whose uid is " "is not allowed to access"
+22;"There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."
+23;"Unable to jump to row" "on MySQL result index" "on line"
+24;"Unclosed quotation mark before the character string"
+25;"Warning: Bad arguments to (join|implode) () in" "on line" -help -forum
+26;"Warning: Cannot modify header information - headers already sent"
+27;"Warning: Division by zero in" "on line" -forum
+28;"Warning: Supplied argument is not a valid File-Handle resource in"
+29;"Warning: mysql_connect(): Access denied for user: '*@*" "on line"  -help -forum
+30;"Warning: mysql_query()" "invalid query"
+31;"Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
+32;"Warning:" "SAFE MODE Restriction in effect." "The script whose uid is" "is not allowed to access owned by uid 0 in" "on line"
+33;"Warning:" "failed to open stream: HTTP request failed" "on line"
+34;"You have an error in your SQL syntax near"
+35;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread
+36;"access denied for user" "using password"
+37;"detected an internal error [IBM][CLI Driver][DB2/6000]"
+38;"error found handling the request" cocoon filetype:xml
+39;"mySQL error with query"
+40;"plugins/wp-db-backup/wp-db-backup.php"
+41;"supplied argument is not a valid MySQL result resource"
+42;An unexpected token "END-OF-STATEMENT" was found
+43;PHP application warnings failing "include_path"
+44;allintext:"fs-admin.php"
+45;filetype:asp  + "[ODBC SQL"
+46;filetype:asp "Custom Error Message" Category Source
+47;filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+48;filetype:php inurl:"logging.php" "Discuz" error
+49;intext:"Error Message : Error loading required libraries."
+50;intext:"Warning: Failed opening" "on line" "include_path"
+51;intitle:"404 SC_NOT_FOUND"
+52;intitle:"500 Internal Server Error" "server at"
+53;intitle:"Apache Tomcat" "Error Report"
+54;intitle:"Default PLESK Page"
+55;intitle:"Error Occurred While Processing Request"
+56;intitle:"Error Occurred" "The error occurred in" filetype:cfm
+57;intitle:"Error using Hypernews" "Server Software"
+58;intitle:"Execution of this script not permitted"
+59;intitle:"Under construction" "does not currently have"
+60;intitle:"htsearch error" ht://Dig error
+61;intitle:"the page cannot be found" "2004 microsoft corporation"
+62;intitle:"the page cannot be found" "internet information services"
+63;intitle:"the page cannot be found" inetmgr
+64;inurl:"index.php?m=content+c=rss+catid=10"
+65;warning "error on line" php sablotron
+66;databasetype. Code : 80004005. Error Description :
+67;intitle:Configuration.File inurl:softcart.exe
+68;inurl:sitebuildercontent
+69;inurl:sitebuilderfiles
+70;inurl:sitebuilderpictures

@@ -1,0 +1,74 @@
+¹=50;Interesting directories=400
+1;"Directory Listing for" "Hosted by Xerver"
+2;"Index Of /network" "last modified"
+3;"Index of /backup"
+4;"Index of" rar r01 nfo Modified 2004
+5;"More Info about MetaCart Free"
+6;"Powered by Invision Power File Manager" (inurl:login.php) | (intitle:"Browsing directory /" )
+7;"Warning: Installation directory exists at" "Powered by Zen Cart" -demo
+8;"Web File Browser" "Use regular expression"
+9;"Welcome to phpMyAdmin" " Create new database"
+10;"Welcome to the directory listing of" "NetworkActiv-Web-Server"
+11;"index of cgi-bin"
+12;"index of" / picasa.ini
+13;"index of" inurl:recycler
+14;"intitle:Index.Of /" stats merchant cgi-* etc
+15;allintext:"WebServerX Server at" 
+16;allintitle:"FirstClass Login"
+17;allinurl:"/*/_vti_pvt/" | allinurl:"/*/_vti_cnf/"
+18;intext:"Powered By: TotalIndex" intitle:"TotalIndex"
+19;intext:"Powered by X-Cart: shopping cart software" -site:x-cart.com
+20;intext:"d.aspx?id" || inurl:"d.aspx?id"
+21;intext:"powered by Hosting Controller" intitle:Hosting.Controller
+22;intitle:"Backup-Management (phpMyBackup v.0.4 beta * )" -johnny.ihackstuff
+23;intitle:"Directory Listing For" intext:Tomcat -int
+24;intitle:"Folder Listing" "Folder Listing" Name Size Date/Time File Folder
+25;intitle:"HFS /" +"HttpFileServer"
+26;intitle:"Index of *" inurl:"my shared folder" size modified
+27;intitle:"Index of /CFIDE/" administrator
+28;intitle:"Index of c:\Windows"
+29;intitle:"Index of" cfide
+30;intitle:"album permissions" "Users who can modify photos" "EVERYBODY"
+31;intitle:"index of /phpmyadmin" modified
+32;intitle:"index of" "parent directory" "desktop.ini" site:dyndns.org
+33;intitle:"index of" -inurl:htm -inurl:html mp3
+34;intitle:"index of" intext:"content.ie5"
+35;intitle:"index of" inurl:ftp (pub | incoming)
+36;intitle:"index.of.personal"
+37;intitle:"pictures thumbnails" site:pictures.sprintpcs.com
+38;intitle:"webadmin - /*" filetype:php directory filename permission
+39;intitle:intranet inurl:intranet +intext:"human resources"
+40;inurl:"/database/comersus.mdb"
+41;inurl:"shopadmin.asp" "Shop Administrators only"
+42;inurl:install.pl intext:"Reading path paramaters" -edu
+43;log inurl:linklint filetype:txt -"checking"
+44;site:ups.com intitle:"Ups Package tracking" intext:"1Z ### ### ## #### ### #"
+45;POWERED BY HIT JAMMER 1.0!
+46;filetype:cfg ks intext:rootpw -sample -test  -howto
+47;filetype:ini Desktop.iniintext:mydocs.dll
+48;filetype:torrent torrent
+49;index.of.dcim
+50;index.of.password
+51;index.of.private
+52;index.of.protected
+53;index.of.secret
+54;index.of.secure
+55;index.of.winnt
+56;intitle:index.of (inurl:fileadmin | intitle:fileadmin)
+57;intitle:index.of /AlbumArt_
+58;intitle:index.of /maildir/new/
+59;intitle:index.of WEB-INF
+60;intitle:index.of abyss.conf
+61;intitle:index.of cisco asa -site:cisco.com
+62;intitle:index.of ios -site:cisco.com
+63;intitle:index.of.config
+64;intitle:upload inurl:upload intext:upload -forum -shop -support -w3c
+65;inurl:/pls/sample/admin_/help/
+66;inurl:/tmp
+67;inurl:/xampp
+68;inurl:backup intitle:index.of inurl:admin
+69;inurl:explorer.cfm inurl:(dirpath|This_Directory)
+70;inurl:j2ee/examples/jsp
+71;inurl:midicart.mdb
+72;inurl:ojspdemos
+73;inurl:shopdbtest.asp

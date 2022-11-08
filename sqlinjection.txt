@@ -1,0 +1,4204 @@
+¹=50;SQL injection=400
+1;zentrack/index.php?configFile=
+2;/lire.php?rub=
+3;/os/pointer.php?url=
+4;Book.asp?bookID=
+5;BookDetails.asp?ID=
+6;Browse_Item_Details.asp?Store_Id=
+7;GetItems.asp?itemid=
+8;List.asp?CatID=
+9;OrderForm.asp?Cart=
+10;Select_Item.asp?id=
+11;Services.asp?ID=
+12;ShopSearch.asp?CategoryID=
+13;StoreRedirect.asp?ID=
+14;Store_ViewProducts.asp?Cat=
+15;ViewProduct.asp?misc=
+16;WsAncillary.asp?ID
+17;add-to-cart.asp?ID=
+18;add.asp?bookid=
+19;addItem.asp
+20;addToCart.asp?idProduct=
+21;add_cart.asp?num=
+22;addcart.asp?
+23;addtomylist.asp?ProdId=
+24;adminEditProductFields.asp?intProdID=
+25;advSearch_h.asp?idCategory=
+26;affiliate-agreement.cfm?storeid=
+27;affiliate.asp?ID=
+28;affiliates.asp?id=
+29;ancillary.asp?ID=
+30;archive.asp?id=
+31;article.asp?id=
+32;aspx?PageID
+33;basket.asp?id=
+34;book_list.asp?bookid=
+35;book_view.asp?bookid=
+36;browse.asp?catid=
+37;browse_item_details.asp
+38;buy.asp?
+39;buy.asp?bookid=
+40;bycategory.asp?id=
+41;cardinfo.asp?card=
+42;cart.asp?action=
+43;cart.asp?cart_id=
+44;cart.asp?id=
+45;cart_additem.asp?id=
+46;cart_validate.asp?id=
+47;cartadd.asp?id=
+48;cat.asp?iCat=
+49;catalog.asp
+50;catalog.asp?CatalogID=
+51;catalog_item.asp?ID=
+52;catalog_main.asp?catid=
+53;category.asp
+54;category.asp?catid=
+55;category_list.asp?id=
+56;categorydisplay.asp?catid=
+57;checkout.asp?UserID=
+58;checkout.asp?cartid=
+59;checkout1.asp?cartid=
+60;checkout_confirmed.asp?order_id=
+61;comersus_listCategoriesAndProducts.asp?idCategory =
+62;comersus_optEmailToFriendForm.asp?idProduct=
+63;comersus_optReviewReadExec.asp?idProduct=
+64;comersus_viewItem.asp?idProduct=
+65;comments_form.asp?ID=
+66;contact.asp?cartId=
+67;content.asp?id=
+68;customerService.asp?TextID1=
+69;default.asp?catID=
+70;description.asp?bookid=
+71;details.asp?BookID=
+72;details.asp?Press_Release_ID=
+73;details.asp?Product_ID=
+74;details.asp?Service_ID=
+75;display_item.asp?id=
+76;displayproducts.asp
+77;downloadTrial.asp?intProdID=
+78;emailToFriend.asp?idProduct=
+79;emailproduct.asp?itemid=
+80;events.asp?ID=
+81;faq.asp?cartID=
+82;faq_list.asp?id=
+83;faqs.asp?id=
+84;feedback.asp?title=
+85;folder.php?id=
+86;freedownload.asp?bookid=
+87;fullDisplay.asp?item=
+88;getbook.asp?bookid=
+89;giftDetail.asp?id=
+90;help.asp?CartId=
+91;home.asp?id=
+92;id= & intext:"Warning: Unknown()
+93;id= & intext:"Warning: array_merge()
+94;id= & intext:"Warning: filesize()
+95;id= & intext:"Warning: getimagesize()
+96;id= & intext:"Warning: ilesize()
+97;id= & intext:"Warning: is_writable()
+98;id= & intext:"Warning: mysql_fetch_array()
+99;id= & intext:"Warning: mysql_fetch_assoc()
+100;id= & intext:"Warning: mysql_num_rows()
+101;id= & intext:"Warning: mysql_query()
+102;id= & intext:"Warning: mysql_result()
+103;id= & intext:"Warning: pg_exec()
+104;id= & intext:"Warning: preg_match()
+105;id= & intext:"Warning: require()
+106;id= & intext:"Warning: session_start()
+107;index.asp?ID=
+108;index.asp?cart=
+109;index.asp?cartID=
+110;index.php?Language=
+111;index.php?body=
+112;index.php?canal=
+113;index.php?go=
+114;index.php?langc=
+115;index.php?screen=
+116;index1.php?=
+117;index1.php?choix=
+118;index1.php?menu=
+119;index2.php?DoAction=
+120;index2.php?ascii_seite=
+121;index2.php?p= 
+122;info.asp?ID=
+123;item.asp?eid=
+124;item.asp?item_id=
+125;item.asp?itemid=
+126;item.asp?model=
+127;item.asp?prodtype=
+128;item.asp?shopcd=
+129;itemDesc.asp?CartId=
+130;item_details.asp?catid=
+131;item_list.asp?maingroup
+132;item_show.asp?code_no=
+133;itemdetail.asp?item=
+134;itemdetails.asp?catalogid=
+135;kb_constants.php?module_root_path=
+136;learnmore.asp?cartID=
+137;lib/gore.php?libpath=
+138;links.asp?catid=
+139;list.asp?bookid=
+140;listcategoriesandproducts.asp?idCategory=
+141;modline.asp?id=
+142;myaccount.asp?catid=
+143;news.asp?id=
+144;order.asp?BookID=
+145;order.asp?id=
+146;order.asp?item_ID=
+147;page.asp?PartID=
+148;pages.php?page=
+149;payment.asp?CartID=
+150;pdetail.asp?item_id=
+151;powersearch.asp?CartId=
+152;price.asp
+153;privacy.asp?cartID=
+154;prodView.asp?idProduct=
+155;prodbycat.asp?intCatalogID=
+156;prodetails.asp?prodid=
+157;prodlist.asp?catid=
+158;product.asp?bookID=
+159;product.asp?intProdID=
+160;productDetails.asp?idProduct=
+161;productDisplay.asp
+162;product_info.asp?item_id=
+163;productinfo.asp?item=
+164;productlist.asp?ViewType=Category&CategoryID= 
+165;productpage.asp
+166;products.asp?ID=
+167;products.asp?keyword=
+168;productsByCategory.asp?intCatalogID=
+169;products_category.asp?CategoryID=
+170;products_detail.asp?CategoryID=
+171;promo.asp?id=
+172;promotion.asp?catid=
+173;pview.asp?Item=
+174;resellers.asp?idCategory=
+175;results.asp?cat=
+176;savecart.asp?CartId=
+177;search.asp?CartID=
+178;searchcat.asp?search_id=
+179;shippinginfo.asp?CartId=
+180;shop.asp?a=
+181;shop.asp?action=
+182;shop.asp?bookid=
+183;shop.asp?cartID=
+184;shop_details.asp?prodid=
+185;shopaddtocart.asp
+186;shopaddtocart.asp?catalogid=
+187;shopbasket.asp?bookid=
+188;shopbycategory.asp?catid=
+189;shopcart.asp?title=
+190;shopcreatorder.asp
+191;shopcurrency.asp?cid=
+192;shopdc.asp?bookid=
+193;shopdisplaycategories.asp
+194;shopdisplayproduct.asp?catalogid=
+195;shopdisplayproducts.asp
+196;shopexd.asp
+197;shopexd.asp?catalogid=
+198;shopping_basket.asp?cartID=
+199;shopprojectlogin.asp
+200;shopquery.asp?catalogid=
+201;shopremoveitem.asp?cartid=
+202;shopreviewadd.asp?id=
+203;shopreviewlist.asp?id=
+204;shoptellafriend.asp?id=
+205;shopthanks.asp
+206;shopwelcome.asp?title=
+207;show.php?page=
+208;showStore.asp?catID=
+209;show_item.asp?id=
+210;show_item_details.asp?item_id=
+211;showbook.asp?bookid=
+212;shprodde.asp?SKU=
+213;specials.asp?id=
+214;store-details.asp?id=
+215;store.asp?id=
+216;store_bycat.asp?id=
+217;store_listing.asp?id=
+218;storefront.asp?id=
+219;storefronts.asp?title=
+220;storeitem.asp?item=
+221;subcategories.asp?id=
+222;tek9.asp?
+223;template.asp?Action=Item&pid=
+224;template.php?goto=
+225;topic.asp?ID=
+226;tuangou.asp?bookid=
+227;type.asp?iType=
+228;updatebasket.asp?bookid=
+229;updates.asp?ID=
+230;video.php?content=
+231;view.asp?cid=
+232;view.php?page=
+233;viewCart.asp?userID=
+234;viewCat_h.asp?idCategory=
+235;viewPrd.asp?idcategory=
+236;view_cart.asp?title=
+237;view_detail.asp?ID=
+238;viewcart.asp?CartId=
+239;viewevent.asp?EventID=
+240;viewitem.asp?recor=
+241;voteList.asp?item_ID=
+242;whatsnew.asp?idCategory=
+243;*.php?catch=
+244;*.php?f=
+245;*.php?go=
+246;*.php?include=
+247;*.php?inf=
+248;*.php?layout=
+249;*.php?load=
+250;*.php?loc=
+251;*.php?locate=
+252;*.php?mode=
+253;*.php?naam=
+254;*.php?name=
+255;*.php?pg=
+256;*.php?place=
+257;*.php?secc=
+258;*.php?sel=
+259;*.php?session=&content=
+260;*/newbb/print.php?forum=*topic_id=*"
+261;*/newbb_plus/*="
+262;*/news/archive.php?op=*year=*month=*"
+263;*/tsep/include/colorswitch.php?tsep_config[absPath]=*"
+264;*coppercop/theme.php?THEME_DIR= 
+265;*default.php?body=
+266;*default.php?body= 
+267;*default.php?page=
+268;*default.php?page= 
+269;*inc*.php?addr=
+270;*inc*.php?adresa=
+271;*inc*.php?base_dir=
+272;*inc*.php?body=
+273;*inc*.php?c=
+274;*inc*.php?category=
+275;*inc*.php?doshow=
+276;*inc*.php?ev=
+277;*inc*.php?get=
+278;*inc*.php?i=
+279;*inc*.php?inc=
+280;*inc*.php?incl=
+281;*inc*.php?include=
+282;*inc*.php?j=
+283;*inc*.php?k=
+284;*inc*.php?ki=
+285;*inc*.php?left=
+286;*inc*.php?link=
+287;*inc*.php?m=
+288;*inc*.php?menu=
+289;*inc*.php?modo=
+290;*inc*.php?open=
+291;*inc*.php?pg=
+292;*inc*.php?rub=
+293;*inc*.php?showpage=
+294;*inc*.php?sivu=
+295;*inc*.php?start=
+296;*inc*.php?str=
+297;*inc*.php?to=
+298;*inc*.php?type=
+299;*inc*.php?y=
+300;*inc/header.php/step_one.php?server_inc= 
+301;*inc/pipe.php?HCL_path= 
+302;*include/new-visitor.inc.php?lvc_include_dir= 
+303;*include/write.php?dir= 
+304;*includes/header.php?systempath= 
+305;*index.php?arquivo=
+306;*index.php?arquivo= 
+307;*index.php?url=
+308;*index.php?url= 
+309;*inst/index.php?lng=../../include/main.inc&G_PATH= 
+310;*mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]= 
+311;*pivot/modules/module_db.php?pivot_path= 
+312;*support/mailling/maillist/inc/initdb.php?absolute_path= 
+313;*zentrack/index.php?configFile= 
+314;.br/index.php?loc=
+315;.gov.br/index.php?arquivo=
+316;.php?Page_ID="
+317;.php?S="
+318;.php?_REQUEST=&_REQUEST[option]=com_content&_REQUEST[Itemid]=1&GLOBALS=&mosConfig_absolute_path="
+319;.php?a="
+320;.php?abrir="
+321;.php?act="
+322;.php?action="
+323;.php?ad="
+324;.php?archive="
+325;.php?area="
+326;.php?article="
+327;.php?b="
+328;.php?back="
+329;.php?base="
+330;.php?basedir="
+331;.php?bbs="
+332;.php?board_no="
+333;.php?body="
+334;.php?c="
+335;.php?cal_dir="
+336;.php?cat="
+337;.php?category="
+338;.php?choice="
+339;.php?class="
+340;.php?club_id="
+341;.php?cod.tipo="
+342;.php?cod="
+343;.php?conf="
+344;.php?configFile="
+345;.php?cont="
+346;.php?corpo="
+347;.php?cvsroot="
+348;.php?d="
+349;.php?da="
+350;.php?date="
+351;.php?debug="
+352;.php?debut="
+353;.php?default="
+354;.php?destino="
+355;.php?dir="
+356;.php?display="
+357;.php?east="
+358;.php?f="
+359;.php?f_content="
+360;.php?file="
+361;.php?file_id="
+362;.php?filepath="
+363;.php?flash="
+364;.php?folder="
+365;.php?for="
+366;.php?form="
+367;.php?formatword="
+368;.php?from="
+369;.php?funcao="
+370;.php?function="
+371;.php?g="
+372;.php?get="
+373;.php?go="
+374;.php?gorumDir="
+375;.php?goto="
+376;.php?h="
+377;.php?headline="
+378;.php?i="
+379;.php?inc="
+380;.php?include="
+381;.php?includedir="
+382;.php?inter="
+383;.php?item_id="
+384;.php?itemid="
+385;.php?j="
+386;.php?join="
+387;.php?jojo="
+388;.php?l="
+389;.php?la="
+390;.php?lan="
+391;.php?lang="
+392;.php?lest="
+393;.php?link="
+394;.php?load="
+395;.php?loc="
+396;.php?m="
+397;.php?main="
+398;.php?meio.php="
+399;.php?meio="
+400;.php?menu="
+401;.php?menuID="
+402;.php?mep="
+403;.php?mid="
+404;.php?month="
+405;.php?mostra="
+406;.php?my="
+407;.php?n="
+408;.php?name="
+409;.php?nav="
+410;.php?new="
+411;.php?news="
+412;.php?next="
+413;.php?nextpage="
+414;.php?o="
+415;.php?op="
+416;.php?open="
+417;.php?option="
+418;.php?origem="
+419;.php?p="
+420;.php?pageurl="
+421;.php?para="
+422;.php?part="
+423;.php?perm="
+424;.php?pg="
+425;.php?pid="
+426;.php?place="
+427;.php?play="
+428;.php?plugin="
+429;.php?pm_path="
+430;.php?pollname="
+431;.php?post="
+432;.php?pr="
+433;.php?prefix="
+434;.php?prefixo="
+435;.php?q="
+436;.php?redirect="
+437;.php?ref="
+438;.php?refid="
+439;.php?regionId="
+440;.php?release="
+441;.php?release_id="
+442;.php?return="
+443;.php?root="
+444;.php?searchcode_id="
+445;.php?sec="
+446;.php?secao="
+447;.php?sect="
+448;.php?sel="
+449;.php?server="
+450;.php?servico="
+451;.php?sg="
+452;.php?shard="
+453;.php?show="
+454;.php?sid="
+455;.php?site="
+456;.php?sourcedir="
+457;.php?start="
+458;.php?storyid="
+459;.php?str="
+460;.php?subd="
+461;.php?subdir="
+462;.php?subject="
+463;.php?sufixo="
+464;.php?systempath="
+465;.php?t="
+466;.php?task="
+467;.php?teste="
+468;.php?theme_dir="
+469;.php?thread_id="
+470;.php?tid="
+471;.php?title="
+472;.php?to="
+473;.php?topic_id="
+474;.php?type="
+475;.php?u="
+476;.php?url="
+477;.php?urlFrom="
+478;.php?v="
+479;.php?var="
+480;.php?vi="
+481;.php?view="
+482;.php?visual="
+483;.php?wPage="
+484;.php?y="
+485;.php?z="
+486;.php?zo="
+487;/?p= .php5?id=
+488;/?pag= .php5?id=
+489;/?page= .php5?id=
+490;/?pg= .php5?id=
+491;/Gery/displayCategory.php?basepath=
+492;/GradeMap/index.php?page=
+493;/Popper/index.php?childwindow.inc.php?form=
+494;/_functions.php?prefix=
+495;/addpost_newpoll.php?addpoll=preview&thispath=
+496;/addpost_newpoll.php?addpoll=preview&thispath= "/ubbthreads/"
+497;/addpost_newpoll.php?addpoll=preview&thispath= "ubbthreads"
+498;/addpost_newpoll.php?addpoll=preview&thispath= /ubbthreads/
+499;/addpost_newpoll.php?addpoll=preview&thispath= /ubbthreads/"
+500;/addpost_newpoll.php?addpoll=preview&thispath= ubbthreads
+501;/admin/index.php?o= admin/index.php"
+502;/admin/index.php?o= admin/index.php";
+503;/admin_modules/admin_module_deldir.inc.php?config[path_src_include]=
+504;/administrator/components/com_serverstat/inst.serverstat.php?mosConfig_absolute_path=
+505;/administrator/components/com_serverstat/inst.serverstat.php?mosConfig_absolute_path= "com_serverstat"
+506;/administrator/components/com_serverstat/inst.serverstat.php?mosConfig_absolute_path= com_serverstat
+507;/administrator/components/com_uhp/uhp_config.php?mosConfig_absolute_path=
+508;/agendax/addevent.inc.php?agendax_path=
+509;/app/common/lib/codeBeautifier/Beautifier/Core.php?BEAUT_PATH=
+510;/application.php?base_path=
+511;/archive.php?CONFIG[script_path]=
+512;/ashheadlines.php?pathtoashnews=
+513;/ashnews.php?pathtoashnews=
+514;/b2-tools/gm-2-b2.php?b2inc=
+515;/bb_lib/checkdb.inc.php?libpach=
+516;/becommunity/community/index.php?pageurl=
+517;/bz/squito/photolist.inc.php?photoroot=
+518;/calendar.php?l= calendar.php?l=
+519;/calendar.php?l= calendar.php?l="
+520;/calendar.php?p= calendar.php?p=
+521;/calendar.php?p= calendar.php?p="
+522;/calendar.php?pg= calendar.php?pg=
+523;/calendar.php?pg= calendar.php?pg="
+524;/calendar.php?s= calendar.php?s=
+525;/calendar.php?s= calendar.php?s="
+526;/class.mysql.php?path_to_bt_dir=
+527;/classes.php?LOCAL_PATH=
+528;/classes/adodbt/sql.php?classes_dir=
+529;/classes/adodbt/sql.php?classes_dir= "adobt"
+530;/classes/adodbt/sql.php?classes_dir= "index2.php?option=rss"
+531;/classes/adodbt/sql.php?classes_dir= /classes/adodbt/sql.php?classes_dir="
+532;/classes/adodbt/sql.php?classes_dir= adobt
+533;/classified_right.php?language_dir=
+534;/classified_right.php?language_dir= "classified.php"
+535;/classified_right.php?language_dir= "phpbazar"
+536;/classified_right.php?language_dir= classified.php
+537;/classified_right.php?language_dir= classified.php phpbazar
+538;/classified_right.php?language_dir= phpbazar
+539;/codebb/lang_select?phpbb_root_path= codebb
+540;/codebb/lang_select?phpbb_root_path= codebb 1.1b3
+541;/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]=
+542;/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "phpCOIN 1.2.3"
+543;/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "phpCOIN"
+544;/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "powered by phpCOIN 1.2.3"
+545;/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= phpCOIN
+546;/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= phpCOIN 1.2.3
+547;/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= powered by phpCOIN 1.2.3
+548;/common.php?include_path=
+549;/components/com_cpg/cpg.php?mosConfig_absolute_path=
+550;/components/com_cpg/cpg.php?mosConfig_absolute_path= com_cpg" 
+551;/components/com_extcalendar/admin_events.php?CONFIG_EXT[LANGUAGES_DIR]= com_extcalendar
+552;/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path=
+553;/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= "com_extended_registration"
+554;/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= com_extended_registration
+555;/components/com_facileforms/facileforms.frame.php?ff_compath=
+556;/components/com_facileforms/facileforms.frame.php?ff_compath= "com_facileforms"
+557;/components/com_facileforms/facileforms.frame.php?ff_compath= com_facileforms
+558;/components/com_facileforms/facileforms.frame.php?ff_compath= com_facileforms"
+559;/components/com_forum/download.php?phpbb_root_path= com_forum
+560;/components/com_mtree/Savant2/Savant2_Plugin_textarea.php?mosConfig_absolute_path=
+561;/components/com_rsgery/rsgery.html.php?mosConfig_absolute_path=
+562;/components/com_simpleboard/image_upload.php?sbp= com_simpleboard"
+563;/components/com_smf/smf.php?mosConfig_absolute_path=
+564;/components/com_zoom/includes/database.php?mosConfig_absolute_path=
+565;/components/com_zoom/includes/database.php?mosConfig_absolute_path= "com_zoom"
+566;/components/com_zoom/includes/database.php?mosConfig_absolute_path= "index.php?option="com_zoom"
+567;/components/com_zoom/includes/database.php?mosConfig_absolute_path= com_zoom
+568;/contenido/classes/class.inuse.php
+569;/content.php?page=
+570;/contrib/yabbse/poc.php?poc_root_path=
+571;/coppermine/themes/maze/theme.php?THEME_DIR=
+572;/cpcommerce/_functions.php?prefix=
+573;/db.php?path_local=
+574;/default.php?page=
+575;/demo/includes/init.php?user_inc=
+576;/derniers_commentaires.php?rep=
+577;/e107/e107_handlers/secure_img_render.php?p=
+578;/eblog/blog.inc.php?xoopsConfig[xoops_url]=
+579;/embed/day.php?path=
+580;/embed/day.php?path= "Calendar"
+581;/embed/day.php?path= "Login to Calendar"
+582;/embed/day.php?path= "WebCalendar"
+583;/embed/day.php?path= Calendar
+584;/embed/day.php?path= Login to Calendar
+585;/embed/day.php?path= WebCalendar
+586;/embed/day.php?path= intitle:"Login to Calendar"
+587;/es/index.php?action=
+588;/exibir.php?arquivo= .php?arquivo=
+589;/extensions/moblog/moblog_lib.php?basedir=
+590;/eyeos/desktop.php?baccio=eyeOptions.eyeapp&a=eyeOptions.eyeapp&_SESSION%5busr%5d=root&_SESSION%5bapps%5d%5beyeOptions.eyeapp%5d%5bwrapup%5d=include($_GET%5ba%5d);&a=
+591;/eyeos/desktop.php?baccio=eyeOptions.eyeapp&a=eyeOptions.eyeapp&_SESSION%5busr%5d=root&_SESSION%5bapps%5d%5beyeOptions.eyeapp%5d%5bwrapup%5d=system($cmd);&cmd=id
+592;/forum/admin/index.php?inc_conf=
+593;/forum/inst.php?phpbb_root_dir=
+594;/functions.php?include_path=
+595;/gnu/index.php?doc=
+596;/gnu3/index.php?doc=
+597;/hcl/inc/pipe.php?HCL_path=
+598;/header.php?abspath=
+599;/header.php?abspath= "MobilePublisherPHP"
+600;/header.php?abspath= MobilePublisherPHP
+601;/help/faq/inc/pipe.php?HCL_path=
+602;/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY= PHP Ged View
+603;/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY= PHP GedView
+604;/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY= PHPGedView
+605;/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY= PHPGedView <= 3.3.7
+606;/help_text_vars.php?dir&PGV_BASE_DIRECTORY=
+607;/helpcenter/inc/pipe.php?HCL_path=
+608;/html&highlight=%2527.include($_GET[a]),exit.%2527&a=
+609;/html/page.php?page=
+610;/htmltonuke.php?filnavn=
+611;/inc/authform.inc.php?path_pre=
+612;/inc/irayofuncs.php?irayodirhack= "/inc/"
+613;/inc/pipe.php?HCL_path=
+614;/inc/shows.inc.php?cutepath=
+615;/include/authform.inc.php?path_pre=
+616;/include/footer.inc.php?_AMLconfig[cfg_serverpath]=
+617;/include/init.inc.php?CPG_M_DIR="
+618;/include/livre_include.php?no_connect=lol&chem_absolu=
+619;/include/main.php?config[search_disp]=true&include_dir=
+620;/include/new-visitor.inc.php?lvc_include_dir=
+621;/include/write.php?dir=
+622;/includes/calendar.php?phpc_root_path=
+623;/includes/dbal.php?eqdkp_root_path=
+624;/includes/dbal.php?eqdkp_root_path= "EQdkp"
+625;/includes/dbal.php?eqdkp_root_path= "powered by EQdkp"
+626;/includes/dbal.php?eqdkp_root_path= EQdkp
+627;/includes/dbal.php?eqdkp_root_path= powered by EQdkp
+628;/includes/functions_portal.php?phpbb_root_path=
+629;/includes/header.php?systempath=
+630;/includes/include_once.php?include_file=
+631;/includes/include_onde.php?include_file=
+632;/includes/kb_constants.php?module_root_path=
+633;/includes/kb_constants.php?module_root_path= "Base"
+634;/includes/kb_constants.php?module_root_path= "Knowledge Base"
+635;/includes/kb_constants.php?module_root_path= "Knowledge"
+636;/includes/kb_constants.php?module_root_path= "Powered by Knowledge Base"
+637;/includes/kb_constants.php?module_root_path= Base
+638;/includes/kb_constants.php?module_root_path= Knowledge
+639;/includes/kb_constants.php?module_root_path= Knowledge Base
+640;/includes/kb_constants.php?module_root_path= Powered by Knowledge Base
+641;/includes/mx_functions_ch.php?phpbb_root_path="
+642;/includes/orderSuccess.inc.php?glob=1&cart_order_id=1&glob[rootDir]=
+643;/includes/setup.php?phpc_root_path=
+644;/index.inc.php?PATH_Includes=
+645;/index.php/main.php?x=
+646;/index.php?L2=
+647;/index.php?TWC=
+648;/index.php?_REQUEST=&_REQUEST[option]=com_content&_REQUEST[Itemid]=1&GLOBALS=&mosConfig_absolute_path=
+649;/index.php?action=
+650;/index.php?babInstPath=
+651;/index.php?cat=
+652;/index.php?cms= /index.php?cms=
+653;/index.php?cms= /index.php?cms="
+654;/index.php?conteudo=
+655;/index.php?dn= .php?dn=
+656;/index.php?dn= .php?dn="
+657;/index.php?dn= /index.php?dn=
+658;/index.php?dn= index.php?dn="
+659;/index.php?file=
+660;/index.php?file= site:*.dk
+661;/index.php?from_market=Y&pageurl=
+662;/index.php?id=&lang= .php?id="
+663;/index.php?id=&lang= index.php?id="
+664;/index.php?id=&page= .php?id="
+665;/index.php?id=&page= index.php?id="
+666;/index.php?inc=
+667;/index.php?include=
+668;/index.php?inter_url=
+669;/index.php?lang=en&cat= .php?lang="
+670;/index.php?lang=en&cat= index.php?lang="
+671;/index.php?lang=en&page= .php?lang=
+672;/index.php?lang=en&page= .php?lang="
+673;/index.php?lang=en&page= index.php?lang=
+674;/index.php?lang=en&page= index.php?lang="
+675;/index.php?level=
+676;/index.php?ln= .php?ln=
+677;/index.php?loc= .php?loc=
+678;/index.php?loc= .php?loc="
+679;/index.php?loc=&cat= .php?loc="
+680;/index.php?loc=&cat= index.php?loc="
+681;/index.php?loc=&lang= .php?loc="
+682;/index.php?loc=&lang= index.php?loc="
+683;/index.php?loc=&page= index.php?loc="
+684;/index.php?loc=start&page= index.php?loc="
+685;/index.php?main=
+686;/index.php?menu=
+687;/index.php?myContent=
+688;/index.php?open=
+689;/index.php?page=
+690;/index.php?page= site:*.dk
+691;/index.php?pagina=
+692;/index.php?pg=
+693;/index.php?sec=
+694;/index.php?seccion= .php?seccion=
+695;/index.php?seccion= /index.php?seccion=
+696;/index.php?seite= .php?seite=
+697;/index.php?seite= /index.php?seite=
+698;/index.php?show=
+699;/index.php?site=
+700;/index.php?slang= ".php?slang="
+701;/index.php?slang= "index.php?slang="
+702;/index.php?slang= .php?slang=
+703;/index.php?slang= /index.php?slang=
+704;/index.php?vis= .php?vis=
+705;/index.php?vis= /index.php?vis=
+706;/index.php?visualizar=
+707;/index.php?x=
+708;/index.php?z=
+709;/index1.php?link=
+710;/index1.php?ln= .php?ln=
+711;/index1.php?main=
+712;/index1.php?nav=
+713;/index1.php?p=
+714;/index2.php?content=
+715;/index2.php?menu=
+716;/index2.php?page=
+717;/index2.php?x=
+718;/index4.php?body=
+719;/interna.php?meio= .php?meio="
+720;/jaf/index.php?show=
+721;/jscript.php?my_ms[root]=
+722;/kietu/index.php?kietu[url_hit]=
+723;/lib/db/ez_sql.php?lib_path= ttCMS
+724;/lib/db/ez_sql.php?lib_path= ttCMS <= v4
+725;/lib/static/header.php?set_menu= iPhoto Album
+726;/lib/static/header.php?set_menu= iPhotoAlbum
+727;/lib/static/header.php?set_menu= iPhotoAlbum v1.1
+728;/library/editor/editor.php?root=
+729;/library/lib.php?root=
+730;/live-support/inc/pipe.php?HCL_path=
+731;/livehelp/inc/pipe.php?HCL_path=
+732;/login.php?dir=
+733;/login.php?dir= "login.php?dir="
+734;/login.php?dir= login.php?dir=
+735;/main.php?body=
+736;/main.php?page=
+737;/main.php?sayfa=
+738;/main.php?sayfa= "main.php?sayfa="
+739;/main.php?sayfa= main.php?sayfa=
+740;/main.php?view=
+741;/main.php?x=
+742;/main_site.php?page=
+743;/mcf.php?content=
+744;/mcf.php?content= mcf.php"
+745;/modules.php?name=
+746;/modules/4nAlbum/public/displayCategory.php?basepath=
+747;/modules/Forums/admin/admin_styles.php?phpbb_root_path=
+748;/modules/MyGuests/signin.php?_AMGconfig[cfg_serverpath]=
+749;/modules/MyGuests/signin.php?_AMGconfig[cfg_serverpath]="
+750;/modules/My_eGery/public/displayCategory.php?basepath=
+751;/modules/PNphpBB2/includes/functions_admin.php?phpbb_root_path=
+752;/modules/TotalCalendar/about.php?inc_dir=
+753;/modules/TotalCalendar/about.php?inc_dir= "TotalCalendar"
+754;/modules/TotalCalendar/about.php?inc_dir= /TotalCalendar
+755;/modules/TotalCalendar/about.php?inc_dir= TotalCalendar
+756;/modules/agendax/addevent.inc.php?agendax_path=
+757;/modules/coppermine/include/init.inc.php?CPG_M_DIR=
+758;/modules/coppermine/themes/coppercop/theme.php?THEME_DIR=
+759;/modules/coppermine/themes/coppercop/theme.php?THEME_DIR= coppermine
+760;/modules/coppermine/themes/coppercop/theme.php?THEME_DIR= coppermine                                                                                                  
+761;/modules/coppermine/themes/default/theme.php?THEME_DIR=
+762;/modules/kernel/system/startup.php?CFG_PHPGIGGLE_ROOT= CFG_PHPGIGGLE_ROOT
+763;/modules/mod_mainmenu.php?mosConfig_absolute_path=
+764;/modules/newbb_plus/class/forumpollrenderer.php?bbPath[path]=
+765;/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= "PostGuestbook 0.6.1"
+766;/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= "PostGuestbook"
+767;/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= PostGuestbook
+768;/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= PostGuestbook 0.6.1
+769;/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= PostGuestbook"
+770;/modules/vwar/admin/admin.php?vwar_root=
+771;/modules/vwar/admin/admin.php?vwar_root= "vwar"
+772;/modules/vwar/admin/admin.php?vwar_root= vwar
+773;/modules/vwar/admin/admin.php?vwar_root=index.php?loc=
+774;/modules/xgery/upgrade_album.php?GERY_BASEDIR=
+775;/modules/xoopsgery/upgrade_album.php?GERY_BASEDIR=
+776;/myPHPCalendar/admin.php?cal_dir=
+777;/mylinks/include/footer.inc.php?_AMLconfig[cfg_serverpath]=
+778;/mylinks/include/info.inc.php?_AMVconfig[cfg_serverpath]=
+779;/osticket/include/main.php?config[search_disp]=true&include_dir=
+780;/page.php?view=
+781;/paginedinamiche/main.php?pagina=
+782;/palportal/index.php?page= /palportal/
+783;/palportal/index.php?page= pal portal
+784;/phorum/plugin/replace/plugin.php?PHORUM[settings_dir]=
+785;/photoalb/lib/static/header.php?set_menu=
+786;/phpcoin/config.php?_CCFG[_PKG_PATH_DBSE]=
+787;/phpgwapi/setup/tables_update.inc.php?appdir=
+788;/phplivehelper/initiate.php?abs_path=
+789;/phpopenchat/contrib/yabbse/poc.php?sourcedir=
+790;/pivot/modules/module_db.php?pivot_path=
+791;/pm/lib.inc.php?pm_path=
+792;/poll/admin/common.inc.php?base_path=
+793;/pollvote/pollvote.php?pollname=
+794;/popup_window.php?site_isp_root=
+795;/ppa/inc/functions.inc.php?config[ppa_root_path]=
+796;/read.php?fpage= /read.php?fpage=
+797;/shoutbox/expanded.php?conf=
+798;/side/index.php?side=
+799;/skin/zero_vote/error.php?dir=
+800;/skin/zero_vote/error.php?dir= "skin/zero_vote/error.php"
+801;/skin/zero_vote/error.php?dir= skin/zero_vote/error.php
+802;/sources/functions.php?CONFIG[main_path]=
+803;/sources/functions.php?CONFIG[main_path]= "(Powered By ScozNews)"
+804;/sources/functions.php?CONFIG[main_path]= "Powered By ScozNews"
+805;/sources/functions.php?CONFIG[main_path]= "ScozNews"
+806;/sources/functions.php?CONFIG[main_path]= (Powered By ScozNews)
+807;/sources/functions.php?CONFIG[main_path]= Powered By ScozNews
+808;/sources/functions.php?CONFIG[main_path]= ScozNews
+809;/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]=
+810;/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= "Aardvark TopSites"
+811;/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= "Aardvark"
+812;/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= "Powered By Aardvark Topsites PHP 4.2.2"
+813;/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= Aardvark
+814;/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= Aardvark TopSites
+815;/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= Powered By Aardvark Topsites PHP 4.2.2
+816;/sources/post.php?fil_config=
+817;/sources/template.php?CONFIG[main_path]=
+818;/sources/template.php?CONFIG[main_path]= "(Powered By ScozNews)"
+819;/sources/template.php?CONFIG[main_path]= "ScozNews"
+820;/sources/template.php?CONFIG[main_path]= (Powered By ScozNews)
+821;/sources/template.php?CONFIG[main_path]= Powered By ScozNews
+822;/sources/template.php?CONFIG[main_path]= ScozNews
+823;/spid/lang/lang.php?lang_path=
+824;/squirrelcart/cart_content.php?cart_isp_root=
+825;/squito/photolist.inc.php?photoroot=
+826;/static.php?load=
+827;/support/faq/inc/pipe.php?HCL_path=
+828;/surveys/survey.inc.php?path=
+829;/surveys/survey.inc.php?path= "surveys"
+830;/surveys/survey.inc.php?path= surveys
+831;/tags.php?BBCodeFile=
+832;/tags.php?BBCodeFile= "Tagger LE"
+833;/tags.php?BBCodeFile= "tags.php"
+834;/tags.php?BBCodeFile= Tagger LE
+835;/tags.php?BBCodeFile= intitle:"Tagger LE"
+836;/tags.php?BBCodeFile= intitle:"Tagger LE" tags.php
+837;/tags.php?BBCodeFile= tags.php
+838;/temp_eg/phpgwapi/setup/tables_update.inc.php?appdir=
+839;/template.php?pagina=
+840;/templates/headline_temp.php?nst_inc=
+841;/templates/headline_temp.php?nst_inc= "fusion"
+842;/templates/headline_temp.php?nst_inc= "management"
+843;/templates/headline_temp.php?nst_inc= "news"
+844;/templates/headline_temp.php?nst_inc= "system"
+845;/templates/headline_temp.php?nst_inc= 'fusion"
+846;/templates/headline_temp.php?nst_inc= fusion
+847;/templates/headline_temp.php?nst_inc= fusion:news:management:system
+848;/templates/headline_temp.php?nst_inc= intitle:fusion:news:management
+849;/templates/headline_temp.php?nst_inc= management
+850;/templates/headline_temp.php?nst_inc= news
+851;/templates/headline_temp.php?nst_inc= system
+852;/templates/mangobery/footer.sample.php?Site_Path= Mangobery
+853;/templates/mangobery/footer.sample.php?Site_Path= Mangobery 0.5.5
+854;/templates/mangobery/footer.sample.php?Site_Path= Mangobery-0.5.5
+855;/tools/send_reminders.php?includedir=
+856;/tools/send_reminders.php?includedir= "day.php?date="
+857;/tools/send_reminders.php?includedir= day.php?date=
+858;/trans/trans.php?trans=&p= .php?trans="
+859;/trans/trans.php?trans=&page= .php?trans="
+860;/trans/trans.php?trans=en&page= .php?trans="
+861;/trans/trans.php?trans=eng&page= .php?trans="
+862;/trans/trans.php?trans=fr&page= .php?trans="
+863;/trans/trans.php?trans=ko&page= .php?trans="
+864;/tutorials/print.php?page=
+865;/ws/get_events.php?includedir= "/WebCalendar/"
+866;/ws/get_events.php?includedir= "WebCalendar"
+867;/ws/get_events.php?includedir= /WebCalendar/
+868;/ws/get_events.php?includedir= Web Calendar
+869;/ws/get_events.php?includedir= WebCalendar
+870;/ws/get_events.php?includedir= WebCalendar v0.9.45
+871;/ws/get_reminders.php?includedir= WebCalendar
+872;/ws/get_reminders.php?includedir= WebCalendar v0.9.45
+873;/ws/login.php?includedir= WebCalendar
+874;/ws/login.php?includedir= WebCalendar v0.9.45
+875;/yabbse/Sources/Packages.php?sourcedir=
+876;/zentrack/index.php?configFile=
+877;/zipndownload.php?PP_PATH=
+878;/zipndownload.php?PP_PATH= "PhotoPost PHP 4.6"
+879;/zipndownload.php?PP_PATH= "PhotoPost PHP"
+880;/zipndownload.php?PP_PATH= "PhotoPost"
+881;/zipndownload.php?PP_PATH= "PhotoPostP"
+882;/zipndownload.php?PP_PATH= "Powered by: PhotoPost PHP 4.6"
+883;/zipndownload.php?PP_PATH= PhotoPost
+884;/zipndownload.php?PP_PATH= PhotoPost PHP 4.6
+885;/zipndownload.php?PP_PATH= Powered by: PhotoPost PHP 4.6
+886;1. my_egery site:.org
+887;10. google = kietu/hit_js.php, kietu/hit_js.php
+888;11. keyword : "Powered by phpBB 2.0.6"
+889;12. keyword : "powered by CubeCart 3.0.6"
+890;13. keyword : "powered by paBugs 2.0 Beta 3"
+891;14. keyword : "powered eyeOs"
+892;14. powered by AshNews", AshNews atau  /ashnews.php
+893;15. .php?bodyfile=
+894;15. keyword : /phorum/login.php
+895;16. /includes/orderSuccess.inc.php?glob=
+896;16. ihm.php?p=*
+897;17. forums.html
+898;18. /default.php?page=home
+899;19. /folder.php?id=
+900;2. xgery site:.org
+901;20. main.php?pagina=
+902;21. Key Word: ( Nuke ET Copyright 2004 por Truzone. ) or ( *.edu.*/modules.php?name=myguests ) or ( "powered by MyGuests")
+903;22. application.php?base_path=
+904;23. inurlp:hplivehelper
+905;24. inurlp:hpnuke
+906;25. key word : "powered by Fantastic News v2.1.2"
+907;26. keyword: "powered by smartblog" AND ?page=login
+908;27. /forum/
+909;28. keyword:"Powered By FusionPHP"
+910;29. shoutbox/expanded.php filetypep:hp
+911;3. coppermine site:.org
+912;30.  /osticket/
+913;31. keyword : "Powered by iUser"
+914;32.  "static.php?load="
+915;33. keyworld : /phpcoin/login.php
+916;34. keyworld: /phpGedview/login.php site:
+917;35. /folder.php?id=
+918;4. 4nAlbum site:.org
+919;5. inurlP:NphpBB2 site:.org
+920;6. ihm.php?p=
+921;7. Keyword : "powered by MyLinks"
+922;8. /modules.php?name=myguests
+923;9. /Popper/index.php?
+924;GradeMap/index.php?page= 
+925;INURL OR INURL WITH:
+926;Index.php?id=
+927;Index.php?id= 
+928;My_eGery/public/displayCategory.php?basepath=
+929;My_eGery/public/displayCategory.php?basepath= 
+930;Packages.php?sourcedir=
+931;Pageid=
+932;Productinfo.php?id=
+933;SQuery/lib/gore.php?libpath=
+934;SQuery/lib/gore.php?libpath= "/SQuery/"
+935;Stray-Questions-View.php?num=
+936;[MyAlbum_DIR]/language.inc.php?langs_dir= [MyAlbum_DIR]
+937;[Script Path]/admin/index.php?o= admin/index.php"
+938;[Script Path]/admin/index.php?o= admin/index.php";
+939;_functions.php?prefix
+940;_functions.php?prefix=
+941;aboutbook.php?id=
+942;account.php?action= .php?action=
+943;account.php?action= account.php?action=
+944;account.php?action= iurl:".php?action="
+945;account.php?action= iurl:"account.php?action="
+946;accounts.php?command= .php?command="
+947;addedit.php?root_dir=
+948;addevent.inc.php?agendax_path=
+949;addmedia.php?factsfile[$LANGUAGE]= phpGedView
+950;admin.php?cal_dir=
+951;admin.php?cal_dir= 
+952;admin.php?page=
+953;admin/doeditconfig.php?thispath=../includes&config[path]=
+954;admin/doeditconfig.php?thispath=../includes&config[path]= "admin"
+955;admin/index.php?o=
+956;administrator/components/com_a6mambocredits/admin.a6mambocredits.php?mosConfig_live_site=
+957;administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=
+958;administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path= /tools/send_reminders.php?includedir= day.php?date=
+959;administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir=
+960;administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir=modules/My_eGery/index.php?basepath=
+961;administrator/components/com_linkdirectory/toolbar.linkdirectory.html.php?mosConfig_absolute_path=
+962;administrator/components/com_mgm/help.mgm.php?mosConfig_absolute_path=
+963;administrator/components/com_peoplebook/param.peoplebook.php?mosConfig_absolute_path=
+964;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path=
+965;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "Mambo"
+966;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "com_remository
+967;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "com_remository"
+968;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= /com_remository/
+969;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= /tags.php?BBCodeFile=
+970;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= Mambo
+971;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= com_remository
+972;administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= index.php?option=com_remository
+973;administrator/components/com_webring/admin.webring.docs.php?component_dir=
+974;affich.php?base=
+975;agendax/addevent.inc.php?agendax_path=
+976;agendax/addevent.inc.php?agendax_path= 
+977;ages.php?id=
+978;akocomments.php?mosConfig_absolute_path=
+979;al_initialize.php?alpath=
+980;album_portal.php?phpbb_root_path=
+981;album_portal.php?phpbb_root_path= 
+982;announce.php?id=
+983;announcements.php?phpraid_dir= "phpraid signup"
+984;announcements.php?phpraid_dir= "phpraid"
+985;announcements.php?phpraid_dir= php raid
+986;announcements.php?phpraid_dir= phpraid
+987;announcements.php?phpraid_dir= phpraid signup
+988;app/webeditor/login.cgi?username=&command=simple&do=edit&password=&file=
+989;arg.php?arg= .php?arg=
+990;args.php?arg= .php?arg=
+991;arquivo.php?data=
+992;art.php?idm=
+993;article.php?ID=
+994;article.php?id=
+995;article.php?sid=
+996;articles.cgi?a=34&t=
+997;artikelinfo.php?id=
+998;atom.php5?page= .php5?id=
+999;auktion.pl?menue=
+1000;auto.php?inc= .php?inc="
+1001;auto.php?page= auto.php?page=
+1002;avatar.php?page=
+1003;avd_start.php?avd=
+1004;band_info.php?id=
+1005;base.php?*
+1006;base.php?*[*]*=
+1007;base.php?abre=
+1008;base.php?adresa=
+1009;base.php?base_dir=
+1010;base.php?basepath=
+1011;base.php?body=
+1012;base.php?category=
+1013;base.php?chapter=
+1014;base.php?choix=
+1015;base.php?cont=
+1016;base.php?disp=
+1017;base.php?doshow=
+1018;base.php?ev=
+1019;base.php?eval=
+1020;base.php?f1= .php?f1="
+1021;base.php?f1= base.php?f1="
+1022;base.php?filepath=
+1023;base.php?home=
+1024;base.php?id=
+1025;base.php?incl=
+1026;base.php?include=
+1027;base.php?ir=
+1028;base.php?itemnav=
+1029;base.php?k=
+1030;base.php?ki=
+1031;base.php?l=
+1032;base.php?lang=
+1033;base.php?link=
+1034;base.php?loc=
+1035;base.php?mid=
+1036;base.php?middle=
+1037;base.php?middlePart=
+1038;base.php?module=
+1039;base.php?name=
+1040;base.php?numero=
+1041;base.php?oldal=
+1042;base.php?opcion=
+1043;base.php?pa=
+1044;base.php?pag=
+1045;base.php?pageweb=
+1046;base.php?panel=
+1047;base.php?path=
+1048;base.php?phpbb_root_path=
+1049;base.php?play=
+1050;base.php?pname=
+1051;base.php?rub=
+1052;base.php?seccion=
+1053;base.php?second=
+1054;base.php?seite=
+1055;base.php?sekce=
+1056;base.php?sivu=
+1057;base.php?str=
+1058;base.php?subject=
+1059;base.php?t=
+1060;base.php?texto=
+1061;base.php?to=
+1062;base.php?v=
+1063;base.php?var=
+1064;base.php?w=
+1065;bb_usage_stats/include/bb_usage_stats.php?phpbb_root_path=
+1066;bb_usage_stats/include/bb_usage_stats.php?phpbb_root_path= forum
+1067;becommunity/community/index.php?pageurl=
+1068;becommunity/community/index.php?pageurl= 
+1069;big.php?pathtotemplate=
+1070;biznews.cgi?a=33&t=
+1071;blank.php?OpenPage=
+1072;blank.php?abre=
+1073;blank.php?action=
+1074;blank.php?base_dir=
+1075;blank.php?basepath=
+1076;blank.php?body=
+1077;blank.php?category=
+1078;blank.php?channel=
+1079;blank.php?corpo=
+1080;blank.php?destino=
+1081;blank.php?dir=
+1082;blank.php?filepath=
+1083;blank.php?get=
+1084;blank.php?goFile=
+1085;blank.php?goto=
+1086;blank.php?h=
+1087;blank.php?header=
+1088;blank.php?id=
+1089;blank.php?in=
+1090;blank.php?incl=
+1091;blank.php?ir=
+1092;blank.php?itemnav=
+1093;blank.php?j=
+1094;blank.php?ki=
+1095;blank.php?lang=
+1096;blank.php?left=
+1097;blank.php?link=
+1098;blank.php?loader=
+1099;blank.php?menu=
+1100;blank.php?mod=
+1101;blank.php?name=
+1102;blank.php?o=
+1103;blank.php?oldal=
+1104;blank.php?open=
+1105;blank.php?pa=
+1106;blank.php?page=
+1107;blank.php?pagina=
+1108;blank.php?panel=
+1109;blank.php?path=
+1110;blank.php?phpbb_root_path=
+1111;blank.php?pname=
+1112;blank.php?pollname=
+1113;blank.php?pr=
+1114;blank.php?pre=
+1115;blank.php?pref=
+1116;blank.php?qry=
+1117;blank.php?read=
+1118;blank.php?ref=
+1119;blank.php?rub=
+1120;blank.php?section=
+1121;blank.php?sivu=
+1122;blank.php?sp=
+1123;blank.php?strona=
+1124;blank.php?subject=
+1125;blank.php?t=
+1126;blank.php?url=
+1127;blank.php?var=
+1128;blank.php?where=
+1129;blank.php?xlink=
+1130;blank.php?z=
+1131;board.php?see= .php?see="
+1132;board.php?see= board.php?see="
+1133;book.php5?page= php5?page=
+1134;bp_ncom.php?bnrep=
+1135;buy.php?category=
+1136;calendar.pl?command=login&fromTemplate= 
+1137;canal.php?meio= .php?meio="
+1138;category.php?id=
+1139;ccbill/whereami.cgi?g=ls
+1140;ccbill/whereami.cgi?g=ls 
+1141;cgi-bin/1/cmd.cgi
+1142;cgi-bin/1/cmd.cgi 
+1143;cgi-bin/acart/acart.pl?&page=
+1144;cgi-bin/acart/acart.pl?&page= 
+1145;cgi-bin/awstats.pl?update=1&logfile=
+1146;cgi-bin/awstats.pl?update=1&logfile= 
+1147;cgi-bin/awstats/awstats.pl?configdir
+1148;cgi-bin/awstats/awstats.pl?configdir 
+1149;cgi-bin/bbs/read.cgi?file=
+1150;cgi-bin/bp/bp-lib.pl?g= 
+1151;cgi-bin/bp/bp-lib.pl?g=               
+1152;cgi-bin/hinsts.pl? 
+1153;cgi-bin/hinsts.pl?                    
+1154;cgi-bin/ikonboard.cgi
+1155;cgi-bin/ikonboard.cgi 
+1156;cgi-bin/index.cgi?page=
+1157;cgi-bin/index.cgi?page= 
+1158;cgi-bin/jammail.pl?job=showoldmail&mail=
+1159;cgi-bin/probe.cgi?olddat=
+1160;cgi-bin/quikstore.cgi?category=
+1161;cgi-bin/quikstore.cgi?category= 
+1162;cgi-bin/telnet.cgi 
+1163;cgi-bin/telnet.cgi                                   
+1164;cgi-bin/ubb/ubb.cgi?g=
+1165;cgi-bin/ubb/ubb.cgi?g= 
+1166;cgi-sys/guestbook.cgi?user=cpanel&template=
+1167;channel_id=
+1168;chappies.php?id=
+1169;clanek.php4?id=
+1170;classes/adodbt/sql.php?classes_dir=
+1171;clubpage.php?id=
+1172;cmd.php?arg= .php?arg=
+1173;collectionitem.php?id=
+1174;com_extended_registration
+1175;communique_detail.php?id=
+1176;components/com_artlinks/artlinks.dispnew.php?mosConfig_absolute_path=
+1177;components/com_cpg/cpg.php?mosConfig_absolute_path=
+1178;components/com_extcalendar/admin_events.php?CONFIG_EXT[LANGUAGES_DIR]=
+1179;components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path=
+1180;components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= com_extended_registration
+1181;components/com_forum/download.php?phpbb_root_path=
+1182;components/com_forum/download.php?phpbb_root_path= "com_forum"
+1183;components/com_geria/geria.html.php?mosConfig_absolute_path=
+1184;components/com_mtree/Savant2/Savant2_Plugin_stylesheet.php?mosConfig_absolute_path=
+1185;components/com_performs/performs.php?mosConfig_absolute_path=
+1186;components/com_performs/performs.php?mosConfig_absolute_path= "com_performs"
+1187;components/com_performs/performs.php?mosConfig_absolute_path= com_performs
+1188;components/com_phpshop/toolbar.phpshop.html.php?mosConfig_absolute_path=
+1189;components/com_phpshop/toolbar.phpshop.html.php?mosConfig_absolute_path= "com_phpshop"
+1190;components/com_rsgery/rsgery.html.php?mosConfig_absolute_path=
+1191;components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= com_rsgery
+1192;components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= rs gery
+1193;components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= rsgery
+1194;components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= rsgery.php
+1195;components/com_simpleboard/image_upload.php?sbp=
+1196;components/com_simpleboard/image_upload.php?sbp= com_simpleboard"
+1197;config.php?_CCFG[_PKG_PATH_DBSE]=
+1198;contacts.php?cal_dir=
+1199;contacts.php?cal_dir= 
+1200;contenido.php?sec=
+1201;content.php?inc= .php?inc="
+1202;content.php?page=
+1203;content.php?page= "content.php?page=*.php"
+1204;content.php?seite= .php?seite=
+1205;content.php?seite= content.php?seite=
+1206;convert-date.php?cal_dir=
+1207;convert-date.php?cal_dir= 
+1208;coppercop/theme.php?THEME_DIR=
+1209;coppercop/theme.php?THEME_DIR= 
+1210;csv_db/csv_db.cgi?fil e=file.extention
+1211;curriculum.php?id=
+1212;cyberfolio/portfolio/msg/view.php?av= cyberfolio
+1213;db.php?path_local=
+1214;dbase.php?action= .php?action=
+1215;dbase.php?action= dbase.php
+1216;dbase.php?action= dbase.php?action=
+1217;declaration_more.php?decl_id=
+1218;default.php?*root*=
+1219;default.php?abre=
+1220;default.php?arquivo= .php?arquivo=
+1221;default.php?base_dir=
+1222;default.php?basepath=
+1223;default.php?body=
+1224;default.php?channel=
+1225;default.php?chapter=
+1226;default.php?choix=
+1227;default.php?cmd=
+1228;default.php?cont=
+1229;default.php?destino=
+1230;default.php?e=
+1231;default.php?eval=
+1232;default.php?f=
+1233;default.php?goto=
+1234;default.php?header=
+1235;default.php?id=
+1236;default.php?inc=
+1237;default.php?incl=
+1238;default.php?include=
+1239;default.php?index=
+1240;default.php?ir=
+1241;default.php?itemnav=
+1242;default.php?k=
+1243;default.php?ki=
+1244;default.php?l=
+1245;default.php?left=
+1246;default.php?load=
+1247;default.php?loader=
+1248;default.php?loc=
+1249;default.php?m=
+1250;default.php?menu=
+1251;default.php?menue=
+1252;default.php?mid=
+1253;default.php?mod=
+1254;default.php?module=
+1255;default.php?n=
+1256;default.php?name=
+1257;default.php?nivel=
+1258;default.php?oldal=
+1259;default.php?opcion=
+1260;default.php?option=
+1261;default.php?p=
+1262;default.php?pa=
+1263;default.php?pag=
+1264;default.php?page=
+1265;default.php?page= 
+1266;default.php?page= "/default.php?page=*.php"
+1267;default.php?pageweb=
+1268;default.php?panel=
+1269;default.php?param=
+1270;default.php?play=
+1271;default.php?pr=
+1272;default.php?pre=
+1273;default.php?read=
+1274;default.php?ref=
+1275;default.php?rub=
+1276;default.php?secao=
+1277;default.php?secc=
+1278;default.php?seccion=
+1279;default.php?seite=
+1280;default.php?showpage=
+1281;default.php?sivu=
+1282;default.php?sp=
+1283;default.php?str=
+1284;default.php?strona=
+1285;default.php?t=
+1286;default.php?thispage=
+1287;default.php?tipo=
+1288;default.php?to=
+1289;default.php?type=
+1290;default.php?v=
+1291;default.php?var=
+1292;default.php?vis= .php?vis="
+1293;default.php?x=
+1294;default.php?y=
+1295;default/theme.php?THEME_DIR=
+1296;define.php?term= .php?term="
+1297;deportes.cgi?a=latest&t=
+1298;detail.php?ID=
+1299;detail.php?prod= .php?prod="
+1300;detail.php?prod= detail.php?prod="
+1301;details.php?loc= .php?loc=
+1302;details.php?loc= details.php?loc=
+1303;diganti dengan :
+1304;direct.php?loc= direct.php?loc=
+1305;directions.php?loc= directions.php?loc=
+1306;display.php?f= display.php?f=
+1307;display.php?file= display.php?file=
+1308;display.php?l= display.php?l=
+1309;display.php?lang= display.php?lang=
+1310;display.php?ln= display.php?ln=
+1311;display.php?p= display.php?p=
+1312;display.php?pag= display.php?pag=
+1313;display.php?page= .php?page="
+1314;display.php?page= display.php?page="
+1315;display.php?page=&lang= .php?page="
+1316;display.php?page=&lang= display.php?page="
+1317;display.php?pg= display.php?pg=
+1318;display.php?s= display.php?s=
+1319;display.php?table= .php?table=
+1320;display.php?table= display.php?table=
+1321;displayCategory.php?basepath=
+1322;dork: "Login to Calendar"
+1323;dork: "MobilePublisherPHP"
+1324;dork: "Powered By ScozNews"
+1325;dork: "main.php?sayfa="
+1326;dork: "powered by EQdkp"
+1327;dork: "powered by doodle cart"
+1328;dork: "powered by phpCOIN 1.2.3"
+1329;dork: adobt sitel
+1330;dork: mcf.php"
+1331;dork: surveys
+1332;dotproject/modules/files/index_table.php?root_dir=
+1333;dotproject/modules/files/index_table.php?root_dir= 
+1334;dotproject/modules/projects/addedit.php?root_dir= 
+1335;dotproject/modules/projects/view.php?root_dir= 
+1336;dotproject/modules/projects/vw_files.php?root_dir= 
+1337;dotproject/modules/tasks/addedit.php?root_dir= 
+1338;dotproject/modules/tasks/viewgantt.php?root_dir=
+1339;dotproject/modules/tasks/viewgantt.php?root_dir= 
+1340;down*.php?OpenPage=
+1341;down*.php?action=
+1342;down*.php?addr=
+1343;down*.php?channel=
+1344;down*.php?choix=
+1345;down*.php?cmd=
+1346;down*.php?corpo=
+1347;down*.php?disp=
+1348;down*.php?doshow=
+1349;down*.php?ev=
+1350;down*.php?filepath=
+1351;down*.php?goFile=
+1352;down*.php?home=
+1353;down*.php?in=
+1354;down*.php?inc=
+1355;down*.php?incl=
+1356;down*.php?include=
+1357;down*.php?ir=
+1358;down*.php?lang=
+1359;down*.php?left=
+1360;down*.php?nivel=
+1361;down*.php?oldal=
+1362;down*.php?open=
+1363;down*.php?pa=
+1364;down*.php?pag=
+1365;down*.php?pageweb=
+1366;down*.php?param=
+1367;down*.php?path=
+1368;down*.php?pg=
+1369;down*.php?phpbb_root_path=
+1370;down*.php?pollname=
+1371;down*.php?pr=
+1372;down*.php?pre=
+1373;down*.php?qry=
+1374;down*.php?r=
+1375;down*.php?read=
+1376;down*.php?s=
+1377;down*.php?second=
+1378;down*.php?section=
+1379;down*.php?seite=
+1380;down*.php?showpage=
+1381;down*.php?sp=
+1382;down*.php?strona=
+1383;down*.php?subject=
+1384;down*.php?t=
+1385;down*.php?texto=
+1386;down*.php?to=
+1387;down*.php?u=
+1388;down*.php?url=
+1389;down*.php?v=
+1390;down*.php?where=
+1391;down*.php?x=
+1392;down*.php?z=
+1393;download.php?id=
+1394;download.php?sub= "download.php?sub="
+1395;download.php?sub= download.php?sub=
+1396;downloads_info.php?id=
+1397;e107/e107_handlers/secure_img_render.php?p=
+1398;e107/e107_handlers/secure_img_render.php?p= 
+1399;editor.php?root=
+1400;emsgb/easymsgb.pl?print=
+1401;enc/content.php?Home_Path=
+1402;enc/content.php?Home_Path= "doodle cart"
+1403;enc/content.php?Home_Path= "doodle"
+1404;enc/content.php?Home_Path= "powered by doodle cart"
+1405;enc/content.php?Home_Path= doodle
+1406;enc/content.php?Home_Path= doodle cart
+1407;enc/content.php?Home_Path= powered by doodle cart
+1408;encapscms_PATH/core/core.php?root= encapscms_PATH
+1409;encore/forumcgi/display.cgi?preftemp=temp&page=anonymous&file=
+1410;encore/forumcgi/display.cgi?preftemp=temp&page=anonymous&file= 
+1411;eng.php?img= .php?img=
+1412;eng.php?img= eng.php?img=
+1413;enter.php?a=
+1414;enter.php?abre=
+1415;enter.php?addr=
+1416;enter.php?b=
+1417;enter.php?base_dir=
+1418;enter.php?body=
+1419;enter.php?chapter=
+1420;enter.php?cmd=
+1421;enter.php?content=
+1422;enter.php?e=
+1423;enter.php?ev=
+1424;enter.php?get=
+1425;enter.php?go=
+1426;enter.php?goto=
+1427;enter.php?home=
+1428;enter.php?id=
+1429;enter.php?incl=
+1430;enter.php?include=
+1431;enter.php?index=
+1432;enter.php?ir=
+1433;enter.php?itemnav=
+1434;enter.php?lang=
+1435;enter.php?left=
+1436;enter.php?link=
+1437;enter.php?loader=
+1438;enter.php?menue=
+1439;enter.php?mid=
+1440;enter.php?middle=
+1441;enter.php?mod=
+1442;enter.php?module=
+1443;enter.php?name=
+1444;enter.php?numero=
+1445;enter.php?open=
+1446;enter.php?pa=
+1447;enter.php?page=
+1448;enter.php?pagina=
+1449;enter.php?panel=
+1450;enter.php?path=
+1451;enter.php?pg=
+1452;enter.php?phpbb_root_path=
+1453;enter.php?play=
+1454;enter.php?pname=
+1455;enter.php?pr=
+1456;enter.php?pref=
+1457;enter.php?qry=
+1458;enter.php?r=
+1459;enter.php?read=
+1460;enter.php?ref=
+1461;enter.php?s=
+1462;enter.php?sec=
+1463;enter.php?second=
+1464;enter.php?seite=
+1465;enter.php?sivu=
+1466;enter.php?sp=
+1467;enter.php?start=
+1468;enter.php?str=
+1469;enter.php?strona=
+1470;enter.php?subject=
+1471;enter.php?texto=
+1472;enter.php?thispage=
+1473;enter.php?type=
+1474;enter.php?viewpage=
+1475;enter.php?w=
+1476;enter.php?y=
+1477;event.php?id=
+1478;events.cgi?a=155&t=
+1479;events.cgi?t=
+1480;exibir.php?abre=
+1481;exibir.php?get=
+1482;exibir.php?lang=
+1483;exibir.php?p=
+1484;exibir.php?page=
+1485;expanded.php?conf=
+1486;experts.php?sub= "experts.php?sub="
+1487;experts.php?sub= experts.php?sub=
+1488;faq2.php?id=
+1489;fellows.php?id=
+1490;fiche_spectacle.php?id=
+1491;file.php?action=
+1492;file.php?basepath=
+1493;file.php?body=
+1494;file.php?channel=
+1495;file.php?chapter=
+1496;file.php?choix=
+1497;file.php?cmd=
+1498;file.php?cont=
+1499;file.php?corpo=
+1500;file.php?disp=
+1501;file.php?doshow=
+1502;file.php?ev=
+1503;file.php?eval=
+1504;file.php?get=
+1505;file.php?id=
+1506;file.php?inc=
+1507;file.php?incl=
+1508;file.php?include=
+1509;file.php?index=
+1510;file.php?ir=
+1511;file.php?ki=
+1512;file.php?left=
+1513;file.php?load=
+1514;file.php?loader=
+1515;file.php?middle=
+1516;file.php?modo=
+1517;file.php?n=
+1518;file.php?nivel=
+1519;file.php?numero=
+1520;file.php?oldal=
+1521;file.php?pagina=
+1522;file.php?param=
+1523;file.php?pg=
+1524;file.php?play=
+1525;file.php?pollname=
+1526;file.php?pref=
+1527;file.php?q=
+1528;file.php?qry=
+1529;file.php?ref=
+1530;file.php?seccion=
+1531;file.php?second=
+1532;file.php?showpage=
+1533;file.php?sivu=
+1534;file.php?sp=
+1535;file.php?start=
+1536;file.php?strona=
+1537;file.php?texto=
+1538;file.php?to=
+1539;file.php?type=
+1540;file.php?url=
+1541;file.php?var=
+1542;file.php?viewpage=
+1543;file.php?where=
+1544;file.php?y=
+1545;fileseek.cgi?head=&foot=
+1546;folder.php?id=
+1547;forum.php?act=
+1548;forum.php?seite= .php?seite=
+1549;forum_bds.php?num=
+1550;frag.php?exec= .php?exec="
+1551;frag.php?exec= frag.php"
+1552;frag.php?exec= frag.php?exec="
+1553;frame.php?loc= .php?loc="
+1554;galeri_info.php?l=
+1555;galerie.php?do= .php?do="
+1556;game.php?id=
+1557;games.php?id=
+1558;general.php?abre=
+1559;general.php?addr=
+1560;general.php?adresa=
+1561;general.php?b=
+1562;general.php?base_dir=
+1563;general.php?body=
+1564;general.php?channel=
+1565;general.php?chapter=
+1566;general.php?choix=
+1567;general.php?cmd=
+1568;general.php?content=
+1569;general.php?doshow=
+1570;general.php?e=
+1571;general.php?f=
+1572;general.php?get=
+1573;general.php?goto=
+1574;general.php?header=
+1575;general.php?id=
+1576;general.php?inc=
+1577;general.php?include=
+1578;general.php?ir=
+1579;general.php?itemnav=
+1580;general.php?left=
+1581;general.php?link=
+1582;general.php?menu=
+1583;general.php?menue=
+1584;general.php?mid=
+1585;general.php?middle=
+1586;general.php?modo=
+1587;general.php?module=
+1588;general.php?my=
+1589;general.php?name=
+1590;general.php?nivel=
+1591;general.php?opcion=
+1592;general.php?p=
+1593;general.php?page=
+1594;general.php?pageweb=
+1595;general.php?pollname=
+1596;general.php?pr=
+1597;general.php?pre=
+1598;general.php?qry=
+1599;general.php?read=
+1600;general.php?redirect=
+1601;general.php?ref=
+1602;general.php?rub=
+1603;general.php?secao=
+1604;general.php?seccion=
+1605;general.php?second=
+1606;general.php?section=
+1607;general.php?seite=
+1608;general.php?sekce=
+1609;general.php?sivu=
+1610;general.php?strona=
+1611;general.php?subject=
+1612;general.php?texto=
+1613;general.php?thispage=
+1614;general.php?tipo=
+1615;general.php?to=
+1616;general.php?type=
+1617;general.php?var=
+1618;general.php?w=
+1619;general.php?where=
+1620;general.php?xlink=
+1621;gery.php?*
+1622;gery.php?*[*]*=
+1623;gery.php?abre=
+1624;gery.php?action=
+1625;gery.php?addr=
+1626;gery.php?base_dir=
+1627;gery.php?basepath=
+1628;gery.php?chapter=
+1629;gery.php?cont=
+1630;gery.php?corpo=
+1631;gery.php?disp=
+1632;gery.php?ev=
+1633;gery.php?eval=
+1634;gery.php?filepath=
+1635;gery.php?get=
+1636;gery.php?go=
+1637;gery.php?h=
+1638;gery.php?id=
+1639;gery.php?index=
+1640;gery.php?itemnav=
+1641;gery.php?ki=
+1642;gery.php?left=
+1643;gery.php?loader=
+1644;gery.php?menu=
+1645;gery.php?menue=
+1646;gery.php?mid=
+1647;gery.php?mod=
+1648;gery.php?module=
+1649;gery.php?my=
+1650;gery.php?name=
+1651;gery.php?nivel=
+1652;gery.php?oldal=
+1653;gery.php?open=
+1654;gery.php?option=
+1655;gery.php?pag=
+1656;gery.php?page=
+1657;gery.php?pageweb=
+1658;gery.php?panel=
+1659;gery.php?param=
+1660;gery.php?pg=
+1661;gery.php?phpbb_root_path=
+1662;gery.php?pname=
+1663;gery.php?pollname=
+1664;gery.php?pre=
+1665;gery.php?pref=
+1666;gery.php?qry=
+1667;gery.php?redirect=
+1668;gery.php?ref=
+1669;gery.php?rub=
+1670;gery.php?sec=
+1671;gery.php?secao=
+1672;gery.php?seccion=
+1673;gery.php?seite=
+1674;gery.php?showpage=
+1675;gery.php?sivu=
+1676;gery.php?sp=
+1677;gery.php?strona=
+1678;gery.php?thispage=
+1679;gery.php?tipo=
+1680;gery.php?to=
+1681;gery.php?url=
+1682;gery.php?var=
+1683;gery.php?viewpage=
+1684;gery.php?where=
+1685;gery.php?xlink=
+1686;gery.php?y=
+1687;gery/init.php?HTTP_POST_VARS=
+1688;gery/init.php?HTTP_POST_VARS= 
+1689;glossary.php?term= .php?term="
+1690;grademade/index.php?page=
+1691;h.php?file=
+1692;h.php?page=
+1693;handlinger.php?vis= .php?vis="
+1694;head.php?*
+1695;head.php?*[*]*=
+1696;head.php?abre=
+1697;head.php?adresa=
+1698;head.php?b=
+1699;head.php?base_dir=
+1700;head.php?c=
+1701;head.php?choix=
+1702;head.php?cmd=
+1703;head.php?content=
+1704;head.php?corpo=
+1705;head.php?d=
+1706;head.php?dir=
+1707;head.php?disp=
+1708;head.php?ev=
+1709;head.php?filepath=
+1710;head.php?g=
+1711;head.php?goto=
+1712;head.php?inc=
+1713;head.php?incl=
+1714;head.php?include=
+1715;head.php?index=
+1716;head.php?ir=
+1717;head.php?ki=
+1718;head.php?lang=
+1719;head.php?left=
+1720;head.php?load=
+1721;head.php?loader=
+1722;head.php?loc=
+1723;head.php?middle=
+1724;head.php?middlePart=
+1725;head.php?mod=
+1726;head.php?modo=
+1727;head.php?module=
+1728;head.php?numero=
+1729;head.php?oldal=
+1730;head.php?opcion=
+1731;head.php?pag=
+1732;head.php?pageweb=
+1733;head.php?play=
+1734;head.php?pname=
+1735;head.php?pollname=
+1736;head.php?read=
+1737;head.php?ref=
+1738;head.php?rub=
+1739;head.php?sec=
+1740;head.php?sekce=
+1741;head.php?sivu=
+1742;head.php?start=
+1743;head.php?str=
+1744;head.php?strona=
+1745;head.php?tipo=
+1746;head.php?viewpage=
+1747;head.php?where=
+1748;head.php?y=
+1749;header.php?systempath=
+1750;help.php?css_path=
+1751;historialeer.php?num=
+1752;home.php?a=
+1753;home.php?a= .php?a="
+1754;home.php?a= home.php?a="
+1755;home.php?act= "home.php?act="
+1756;home.php?act= home.php?act=
+1757;home.php?action=
+1758;home.php?addr=
+1759;home.php?arg= .php?arg=
+1760;home.php?base_dir=
+1761;home.php?basepath=
+1762;home.php?body=
+1763;home.php?category=
+1764;home.php?channel=
+1765;home.php?chapter=
+1766;home.php?choix=
+1767;home.php?cmd=
+1768;home.php?content=
+1769;home.php?disp=
+1770;home.php?doshow=
+1771;home.php?e=
+1772;home.php?ev=
+1773;home.php?eval=
+1774;home.php?func= .php?func="
+1775;home.php?g=
+1776;home.php?h=
+1777;home.php?i= "home.php?i="
+1778;home.php?i= home.php?i=
+1779;home.php?in=
+1780;home.php?inc= "home.php?inc="
+1781;home.php?inc= home.php?inc=
+1782;home.php?include=
+1783;home.php?index=
+1784;home.php?ir=
+1785;home.php?itemnav=
+1786;home.php?k=
+1787;home.php?link=
+1788;home.php?ln= .php?ln=
+1789;home.php?loader=
+1790;home.php?loc=
+1791;home.php?ltr= .php?ltr="
+1792;home.php?menu=
+1793;home.php?middle=
+1794;home.php?middlePart=
+1795;home.php?module=
+1796;home.php?my=
+1797;home.php?oldal=
+1798;home.php?opcion=
+1799;home.php?pa=
+1800;home.php?pag= "/home.php?pag=*.php"
+1801;home.php?page=
+1802;home.php?pageweb=
+1803;home.php?pagina=
+1804;home.php?panel=
+1805;home.php?path=
+1806;home.php?play=
+1807;home.php?pollname=
+1808;home.php?pr=
+1809;home.php?pre=
+1810;home.php?qry=
+1811;home.php?read=
+1812;home.php?recipe=
+1813;home.php?redirect=
+1814;home.php?ref=
+1815;home.php?rub=
+1816;home.php?sec=
+1817;home.php?secao=
+1818;home.php?section=
+1819;home.php?seite=
+1820;home.php?sekce=
+1821;home.php?showpage=
+1822;home.php?sit= .php?sit="
+1823;home.php?sp=
+1824;home.php?str=
+1825;home.php?table= .php?table=
+1826;home.php?thispage=
+1827;home.php?tipo=
+1828;home.php?w=
+1829;home.php?where=
+1830;home.php?x=
+1831;home.php?z=
+1832;home1.php?ln= .php?ln=
+1833;home2.php?ln= .php?ln=
+1834;homepage.php?sel=
+1835;hosting_info.php?id=
+1836;html/affich.php?base= 
+1837;htmltonuke.php?filnavn=
+1838;humor.php?id=
+1839;i-m/i-m.cgi?p= 
+1840;ideabox/include.php?gorumDir=
+1841;ideabox/include.php?gorumDir= 
+1842;ihm.php?p=
+1843;image.php?img= .php?img=
+1844;image.php?img= image.php?img=
+1845;images/evil.php?owned= e107
+1846;img.php?loc= .php?loc="
+1847;img.php?loc= img.php?loc="
+1848;impex/ImpExData.php?systempath=
+1849;impex/ImpExData.php?systempath= "vbulletin"
+1850;impex/ImpExData.php?systempath= intext:powered by vbulletin
+1851;impex/ImpExData.php?systempath= powered by vbulletin
+1852;impex/ImpExData.php?systempath= vbulletin
+1853;inc.php?inc= .php?inc="
+1854;inc/cmses/aedating4CMS.php?dir[inc]=
+1855;inc/cmses/aedating4CMS.php?dir[inc]= flashchat site:br bp_ncom.php?bnrep=
+1856;inc/cmses/aedatingCMS.php?dir[inc]=
+1857;inc/cmses/aedatingCMS.php?dir[inc]= "flashchat"
+1858;inc/functions.inc.php?config[ppa_root_path]=
+1859;inc/functions.inc.php?config[ppa_root_path]= "Index - Albums" index.php 
+1860;inc/header.php/step_one.php?server_inc=
+1861;inc/pipe.php?HCL_path=
+1862;inc/session.php?sessionerror=0&lang= inc
+1863;inc/step_one_tables.php?server_inc=
+1864;inc/step_one_tables.php?server_inc= 
+1865;include.php?*
+1866;include.php?*[*]*=
+1867;include.php?adresa=
+1868;include.php?b=
+1869;include.php?basepath=
+1870;include.php?channel=
+1871;include.php?chapter=
+1872;include.php?cmd=
+1873;include.php?cont=
+1874;include.php?content=
+1875;include.php?corpo=
+1876;include.php?destino=
+1877;include.php?dir=
+1878;include.php?eval=
+1879;include.php?filepath=
+1880;include.php?go=
+1881;include.php?goFile=
+1882;include.php?gorumDir=
+1883;include.php?goto=
+1884;include.php?header=
+1885;include.php?in=
+1886;include.php?include=
+1887;include.php?index=
+1888;include.php?ir=
+1889;include.php?ki=
+1890;include.php?left=
+1891;include.php?loader=
+1892;include.php?loc=
+1893;include.php?mid=
+1894;include.php?middle=
+1895;include.php?middlePart=
+1896;include.php?module=
+1897;include.php?my=
+1898;include.php?name=
+1899;include.php?nivel=
+1900;include.php?numero=
+1901;include.php?oldal=
+1902;include.php?option=
+1903;include.php?pag=
+1904;include.php?pageweb=
+1905;include.php?panel=
+1906;include.php?path=
+1907;include.php?phpbb_root_path=
+1908;include.php?play=
+1909;include.php?read=
+1910;include.php?redirect=
+1911;include.php?ref=
+1912;include.php?sec=
+1913;include.php?secao=
+1914;include.php?seccion=
+1915;include.php?second=
+1916;include.php?sivu=
+1917;include.php?tipo=
+1918;include.php?to=
+1919;include.php?u=
+1920;include.php?url=
+1921;include.php?w=
+1922;include.php?x=
+1923;include/editfunc.inc.php?NWCONF_SYSTEM[server_path]=
+1924;include/editfunc.inc.php?NWCONF_SYSTEM[server_path]= intitle:Newswriter
+1925;include/editfunc.inc.php?NWCONF_SYSTEM[server_path]= site:.gr
+1926;include/new-visitor 
+1927;include/new-visitor.inc.php?lvc_include_dir=
+1928;include/new-visitor.inc.php?lvc_include_dir= 
+1929;include/write.php?dir=
+1930;includes/functions.php?phpbb_root_path=
+1931;includes/header.php?systempath=
+1932;includes/header.php?systempath= 
+1933;includes/search.php?GlobalSettings[templatesDirectory]=
+1934;index.php3?act= .php3?act=
+1935;index.php3?act= .php3?act="
+1936;index.php3?act= index.php3?act=
+1937;index.php3?file= .php3?f="
+1938;index.php3?file= .php3?file="
+1939;index.php3?i= index.php3?i=
+1940;index.php3?id= index.php3?id=
+1941;index.php3?l= index.php3?l=
+1942;index.php3?lang= index.php3?lang=
+1943;index.php3?p= index.php3?p=
+1944;index.php3?p= index.php3?p="
+1945;index.php3?p= index.php3?pag="
+1946;index.php3?p= index.php3?page="
+1947;index.php3?p= index.php3?pg="
+1948;index.php3?pag= index.php3?pag=
+1949;index.php3?page= index.php3?page=
+1950;index.php3?pg= index.php3?pg=
+1951;index.php3?s= .php3?s=
+1952;index.php3?s= .php3?s="
+1953;index.php3?s= index.php3?s=
+1954;index.php3?s= index.php3?s="
+1955;index.php4?lang= .php4?lang=
+1956;index.php4?lang= .php4?lang="
+1957;index.php4?lang= index.php4?lang="
+1958;index.php5?lang= .php5?lang="
+1959;index.php5?lang= index.php5?lang=
+1960;index.php5?lang= index.php5?lang="
+1961;index.php?=
+1962;index.php?Language=
+1963;index.php?Load=
+1964;index.php?RP_PATH=
+1965;index.php?RP_PATH= reviewpost
+1966;index.php?_REQUEST=&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1&GLOBALS=&mosConfig_absolute_path=
+1967;index.php?a=
+1968;index.php?a= .php?a="
+1969;index.php?a= index.php?a="
+1970;index.php?acao=
+1971;index.php?acao= .php?acao=
+1972;index.php?acao= index.php?acao=
+1973;index.php?act= "index.php?act="
+1974;index.php?act= index.php?act=
+1975;index.php?action=
+1976;index.php?action= 
+1977;index.php?action= .php?action="
+1978;index.php?action= index.php?action="
+1979;index.php?addr=
+1980;index.php?adresa=
+1981;index.php?arg= .php?arg=
+1982;index.php?arg= index.php?arg=
+1983;index.php?arq=
+1984;index.php?arq= .php?arq=
+1985;index.php?arq= index.php?arq=
+1986;index.php?arquivo=
+1987;index.php?arquivo= .php?arquivo=
+1988;index.php?b=
+1989;index.php?b= index.php?b="
+1990;index.php?ba= index.php?ba="
+1991;index.php?bas= .php?bas="
+1992;index.php?bas= index.php?bas="
+1993;index.php?base_dir=
+1994;index.php?basepath=
+1995;index.php?body=
+1996;index.php?body= "index.php?body="
+1997;index.php?body= index.php?body=
+1998;index.php?c=
+1999;index.php?c= 
+2000;index.php?c= ".php?c="
+2001;index.php?c= "index.php?c="
+2002;index.php?c= .php?c=
+2003;index.php?c= index.php?c=
+2004;index.php?c= index.php?c="
+2005;index.php?cal=
+2006;index.php?cal= ".php?cal="
+2007;index.php?cal= "index.php?cal="
+2008;index.php?cal= .php?cal=
+2009;index.php?cal= index.php?cal=
+2010;index.php?canal=
+2011;index.php?cat=
+2012;index.php?cat= 
+2013;index.php?channel=
+2014;index.php?chapter=
+2015;index.php?cmd=
+2016;index.php?command= .php?command="
+2017;index.php?command= index.php?command="
+2018;index.php?configFile=
+2019;index.php?configFile= 
+2020;index.php?cont=
+2021;index.php?cont= 
+2022;index.php?content=
+2023;index.php?content= 
+2024;index.php?content= .php?content=
+2025;index.php?content= index.php?content=
+2026;index.php?conteudo=
+2027;index.php?d1= .php?d1="
+2028;index.php?d=
+2029;index.php?def= .php?def="
+2030;index.php?def= index.php?def=
+2031;index.php?def= index.php?def="
+2032;index.php?dept=
+2033;index.php?dir=
+2034;index.php?directfile=
+2035;index.php?disp=
+2036;index.php?do=
+2037;index.php?do= 
+2038;index.php?doc=
+2039;index.php?document=
+2040;index.php?dok= .php?dok="
+2041;index.php?dok= index.php?dok="
+2042;index.php?dsp=
+2043;index.php?e=
+2044;index.php?e= index.php?e="
+2045;index.php?ev=
+2046;index.php?exec= .php?exec=
+2047;index.php?exec= index.php?exec=
+2048;index.php?f1= .php?f1="
+2049;index.php?f=
+2050;index.php?f= index.php?f="
+2051;index.php?fPage= .php?fPage=
+2052;index.php?fPage= .php?fPage="
+2053;index.php?fPage= index.php?fPage=
+2054;index.php?fPage= index.php?fPage="
+2055;index.php?fase= .php?fase="
+2056;index.php?fase= index.php?fase="
+2057;index.php?file=
+2058;index.php?file= index.php?file="
+2059;index.php?filename=
+2060;index.php?filepath=
+2061;index.php?fn= .php?fn="
+2062;index.php?fn= index.php?fn="
+2063;index.php?fset= .php?fset="
+2064;index.php?func= .php?func="
+2065;index.php?funcion=
+2066;index.php?function=custom&custom= custom
+2067;index.php?g=
+2068;index.php?go1= "index.php?go1="
+2069;index.php?go1= index.php?go1=
+2070;index.php?go=
+2071;index.php?go= "index.php?go="
+2072;index.php?go= index.php?go=
+2073;index.php?gorumdir=
+2074;index.php?goto=
+2075;index.php?goto= .php?goto="
+2076;index.php?goto= index.php?goto="
+2077;index.php?h=
+2078;index.php?hl=
+2079;index.php?i=
+2080;index.php?id=
+2081;index.php?id= index.php?id="
+2082;index.php?id=&lang= ".php?id="
+2083;index.php?id=&lang= "index.php?id="
+2084;index.php?id=1&lang= ".php?id="
+2085;index.php?id=1&lang= "index.php?id="
+2086;index.php?id=1&lang= index.php?i=
+2087;index.php?id=1&lang= index.php?id=
+2088;index.php?inc=
+2089;index.php?inc= 
+2090;index.php?inc= .php?inc="
+2091;index.php?incl=
+2092;index.php?include=
+2093;index.php?include= 
+2094;index.php?index=
+2095;index.php?inhalt=
+2096;index.php?ir=
+2097;index.php?ir= ".php?ir="
+2098;index.php?j=
+2099;index.php?k=
+2100;index.php?kobr=
+2101;index.php?l=
+2102;index.php?lang=
+2103;index.php?lang= "index.php?lang="
+2104;index.php?lang= index.php?lang=
+2105;index.php?lang=&page= .php?lang=
+2106;index.php?lang=&page= index.php?lang=
+2107;index.php?lang=en&page= .php?lang=
+2108;index.php?lang=en&page= index.php?lang=
+2109;index.php?lang=gr&file
+2110;index.php?langc=
+2111;index.php?lg=
+2112;index.php?lg= "index.php?lg="
+2113;index.php?lg= index.php?lg=
+2114;index.php?link=
+2115;index.php?lk= .php?lk="
+2116;index.php?ll=
+2117;index.php?ln= ".php?ln="
+2118;index.php?ln= "index.php?ln="
+2119;index.php?ln= .php?ln=
+2120;index.php?ln= index.php?ln=
+2121;index.php?lng= "index.php?lng="
+2122;index.php?lng= index.php?lng=
+2123;index.php?lng=../../include/main.inc&G_PATH=
+2124;index.php?lnk=
+2125;index.php?lnk= ".php?lnk="
+2126;index.php?lnk= "index.php?lnk="
+2127;index.php?lnk= .php?lnk=
+2128;index.php?lnk= index.php?lnk=
+2129;index.php?load=
+2130;index.php?loc=
+2131;index.php?loca= .php?loca=
+2132;index.php?loca= index.php?loca=
+2133;index.php?ltr= .php?ltr="
+2134;index.php?ltr= index.php?ltr="
+2135;index.php?lv1=
+2136;index.php?m=
+2137;index.php?m= index.php?m="
+2138;index.php?main= .php?main="
+2139;index.php?meio.php=
+2140;index.php?meio.php= 
+2141;index.php?meio=
+2142;index.php?meio= 
+2143;index.php?meio= .php?meio=
+2144;index.php?meio= .php?meio="
+2145;index.php?meio= index.php?meio=
+2146;index.php?meio= index.php?meio="
+2147;index.php?menu=
+2148;index.php?menu=deti&page=
+2149;index.php?menu=deti&page= index.php?menu=deti&page"
+2150;index.php?mf= .php?mf=
+2151;index.php?mf= .php?mf="
+2152;index.php?mf= index.php?mf=
+2153;index.php?mid=
+2154;index.php?mid= .php?mid=
+2155;index.php?mid= .php?mid="
+2156;index.php?mid= index.php?mid=
+2157;index.php?mid= index.php?mid="
+2158;index.php?middle=
+2159;index.php?middle= .php?middle="
+2160;index.php?middle= index.php?middle=
+2161;index.php?middle= index.php?middle="
+2162;index.php?middlePart=
+2163;index.php?mn= .php?mn="
+2164;index.php?mn= index.php?mn="
+2165;index.php?mod= .php?mod="
+2166;index.php?mod= index.php?mod="
+2167;index.php?mode=
+2168;index.php?modo=
+2169;index.php?module=
+2170;index.php?n=
+2171;index.php?new= index.php?new="
+2172;index.php?news= index.php?news="
+2173;index.php?nic=
+2174;index.php?o=
+2175;index.php?oldal=
+2176;index.php?op=
+2177;index.php?opcao=
+2178;index.php?opcion=
+2179;index.php?open=
+2180;index.php?open= 
+2181;index.php?openfile=
+2182;index.php?option=
+2183;index.php?ort=
+2184;index.php?p=
+2185;index.php?p= 
+2186;index.php?p= "/index.php?p=*.php"
+2187;index.php?p= index.php?p="
+2188;index.php?pag=
+2189;index.php?pag= 
+2190;index.php?pag= "/index.php?pag=*.php"
+2191;index.php?pag= "index.php?pag="
+2192;index.php?pag= index.php?pag=
+2193;index.php?page1= .php?page1="
+2194;index.php?page1= index.php?page1="
+2195;index.php?page=
+2196;index.php?page= 
+2197;index.php?page= "/index.php?page=*.php"
+2198;index.php?page= index.php?page=
+2199;index.php?page= php5?page=
+2200;index.php?page=&lang= .php?p=
+2201;index.php?page=&lang= .php?pag=
+2202;index.php?page=&lang= .php?page=
+2203;index.php?page=&lang= .php?pg=
+2204;index.php?page=&lang= index.php?p=
+2205;index.php?page=&lang= index.php?pag=
+2206;index.php?page=&lang= index.php?page=
+2207;index.php?page=&lang= index.php?pg=
+2208;index.php?pageN= .php?pageN="
+2209;index.php?pagename=
+2210;index.php?pagename= phpquiz
+2211;index.php?pager= .php?pager=
+2212;index.php?pager= index.php?pager=
+2213;index.php?pageurl=
+2214;index.php?pageurl= "index.php?pageurl="
+2215;index.php?pageurl= "index.php?pageurl=*.php
+2216;index.php?pageurl= "index.php?pageurl=*.php"
+2217;index.php?pageurl= index.php?pageurl=*.php
+2218;index.php?pagina1= "index.php?pagina1="
+2219;index.php?pagina1= index.php?pagina1=
+2220;index.php?pagina=
+2221;index.php?pagina= 
+2222;index.php?pagina= "index.php?pagina="
+2223;index.php?pagina= "index.php?pagina=*.php"
+2224;index.php?pagina= index.php?pagina=
+2225;index.php?param=
+2226;index.php?path=
+2227;index.php?pg=
+2228;index.php?pg= "index.php?pg="
+2229;index.php?pg= index.php?pg=
+2230;index.php?pg_ID=
+2231;index.php?pilih=
+2232;index.php?place=
+2233;index.php?play=
+2234;index.php?plugin=
+2235;index.php?pname=
+2236;index.php?pollname=
+2237;index.php?pr=
+2238;index.php?pre=
+2239;index.php?pref=
+2240;index.php?prefix=
+2241;index.php?principal=
+2242;index.php?prod= .php?prod="
+2243;index.php?prod= .php?product="
+2244;index.php?product= .php?prod="
+2245;index.php?product= .php?product="
+2246;index.php?q=
+2247;index.php?r=
+2248;index.php?r= index.php?r="
+2249;index.php?rage=
+2250;index.php?recipe=
+2251;index.php?root_PATH=
+2252;index.php?s=
+2253;index.php?s= "index.php?s="
+2254;index.php?s= .php?s=
+2255;index.php?s= .php?s="
+2256;index.php?s= index.php?s=
+2257;index.php?s= index.php?s="
+2258;index.php?screen=
+2259;index.php?sec=
+2260;index.php?sec= "index.php?sec="
+2261;index.php?sec= index.php?sec=
+2262;index.php?secao=
+2263;index.php?secao= ".php?secao="
+2264;index.php?secao= "index.php?secao="
+2265;index.php?secao= .php?secao=
+2266;index.php?secao= index.php?secao=
+2267;index.php?seite=
+2268;index.php?sekce=
+2269;index.php?sel=
+2270;index.php?select= .php?select=
+2271;index.php?select= .php?select="
+2272;index.php?select= index.php?select=
+2273;index.php?server=
+2274;index.php?set= .php?set=
+2275;index.php?set= .php?set="
+2276;index.php?set= index.php?set=
+2277;index.php?set= index.php?set="
+2278;index.php?sf= index.php?sf="
+2279;index.php?show=
+2280;index.php?show= .php?show="
+2281;index.php?side=
+2282;index.php?sit= .php?sit="
+2283;index.php?sit= index.php?sit="
+2284;index.php?site1= "index.php?site1="
+2285;index.php?site1= index.php?site1=
+2286;index.php?site=
+2287;index.php?site= 
+2288;index.php?site= "index.php?site="
+2289;index.php?site= index.php?site=
+2290;index.php?sivu=
+2291;index.php?sort= .php?sort="
+2292;index.php?spage= .php?spage=
+2293;index.php?spage= .php?spage="
+2294;index.php?spage= index.php?spage=
+2295;index.php?spage= index.php?spage="
+2296;index.php?ss= .php?ss="
+2297;index.php?ss= index.php?ss="
+2298;index.php?st= index.php?st="
+2299;index.php?str=
+2300;index.php?stranica=
+2301;index.php?strona=
+2302;index.php?sub2=
+2303;index.php?sub=
+2304;index.php?sub= ".php?sub="
+2305;index.php?sub= "index.php?sub="
+2306;index.php?sub= "index.php?sub=""
+2307;index.php?sub= .php?sub=
+2308;index.php?sub= index.php?sub=
+2309;index.php?sub= index.php?sub="
+2310;index.php?sub=index.php?id=index.php?t=
+2311;index.php?subp= .php?subp="
+2312;index.php?subp= index.php?subp="
+2313;index.php?subpage= .php?subpage="
+2314;index.php?subpage= index.php?subpage="
+2315;index.php?t=
+2316;index.php?t= index.php?t="
+2317;index.php?table= .php?table=
+2318;index.php?table= index.php?table=
+2319;index.php?task= .php?task=
+2320;index.php?task= index.php?task=
+2321;index.php?template=
+2322;index.php?templateid=
+2323;index.php?term= .php?term="
+2324;index.php?textfield= .php?textfield="
+2325;index.php?theme=
+2326;index.php?theme= .php?theme=
+2327;index.php?theme= index.php?theme=
+2328;index.php?tipo=
+2329;index.php?to=
+2330;index.php?topic=
+2331;index.php?trans= .php?trans="
+2332;index.php?trans= index.php?trans="
+2333;index.php?type=
+2334;index.php?u=
+2335;index.php?u=administrator/components/com_linkdirectory/toolbar.linkdirectory.html.php?mosConfig_absolute_path=
+2336;index.php?url=
+2337;index.php?v=
+2338;index.php?v= index.php?v="
+2339;index.php?var1= "index.php?var1="
+2340;index.php?var1= index.php?var1=
+2341;index.php?var2= index.php?var2=
+2342;index.php?var=
+2343;index.php?var= "index.php?var1="
+2344;index.php?var= "index.php?var2="
+2345;index.php?var= "index.php?var=*.php"
+2346;index.php?var= index.php?va21=
+2347;index.php?var= index.php?var1=
+2348;index.php?var= index.php?var2=
+2349;index.php?var= index.php?var=
+2350;index.php?var= index.php?var=*.php
+2351;index.php?ver=
+2352;index.php?ver= .php?ver=
+2353;index.php?ver= .php?ver="
+2354;index.php?ver= index.php?ver=
+2355;index.php?ver= index.php?ver="
+2356;index.php?view=
+2357;index.php?visualizar=
+2358;index.php?visualizar= 
+2359;index.php?vpagina=
+2360;index.php?w=
+2361;index.php?way= .php?way=
+2362;index.php?way= index.php?way=
+2363;index.php?where=
+2364;index.php?wpage= .php?wpage="
+2365;index.php?wpage= index.php?wpage="
+2366;index.php?x=
+2367;index.php?x= 
+2368;index.php?x= index.php?mode=index.php?stranica=
+2369;index.php?y=
+2370;index.php?z=
+2371;index.phpmain.php?x=
+2372;index0.php?show=
+2373;index1.php?*
+2374;index1.php?*[*]*=
+2375;index1.php?*root*=
+2376;index1.php?=
+2377;index1.php?= "index1.php?="
+2378;index1.php?= "index1.php?=*.php?
+2379;index1.php?= index1.php?=
+2380;index1.php?OpenPage=
+2381;index1.php?abre=
+2382;index1.php?action=
+2383;index1.php?adresa=
+2384;index1.php?arg= .php?arg=
+2385;index1.php?arq= .php?arq=
+2386;index1.php?b=
+2387;index1.php?body=
+2388;index1.php?c=
+2389;index1.php?chapter=
+2390;index1.php?choix=
+2391;index1.php?cmd=
+2392;index1.php?d=
+2393;index1.php?dat=
+2394;index1.php?dir=
+2395;index1.php?filepath=
+2396;index1.php?func= .php?func="
+2397;index1.php?get=
+2398;index1.php?go=
+2399;index1.php?goFile=
+2400;index1.php?home=
+2401;index1.php?inc= .php?inc="
+2402;index1.php?incl=
+2403;index1.php?itemnav=
+2404;index1.php?l=
+2405;index1.php?link=
+2406;index1.php?lk= .php?lk="
+2407;index1.php?load=
+2408;index1.php?loc=
+2409;index1.php?ltr= .php?ltr="
+2410;index1.php?menu=
+2411;index1.php?mid= index1.php?mid=
+2412;index1.php?mod=
+2413;index1.php?modo=
+2414;index1.php?my=
+2415;index1.php?nivel=
+2416;index1.php?o=
+2417;index1.php?oldal=
+2418;index1.php?op=
+2419;index1.php?p= .php?p="
+2420;index1.php?p= .php?pag="
+2421;index1.php?p= .php?page="
+2422;index1.php?p= .php?pg="
+2423;index1.php?pa=
+2424;index1.php?page= index1.php?page="
+2425;index1.php?pagina=
+2426;index1.php?param=
+2427;index1.php?path=
+2428;index1.php?pg=
+2429;index1.php?pname=
+2430;index1.php?pollname=
+2431;index1.php?pr=
+2432;index1.php?pre=
+2433;index1.php?qry=
+2434;index1.php?read=
+2435;index1.php?recipe=
+2436;index1.php?redirect=
+2437;index1.php?s= index1.php?s="
+2438;index1.php?second=
+2439;index1.php?seite=
+2440;index1.php?sekce=
+2441;index1.php?show= .php?show="
+2442;index1.php?show= index1.php?show="
+2443;index1.php?showpage=
+2444;index1.php?site=
+2445;index1.php?str=
+2446;index1.php?strona=
+2447;index1.php?subject=
+2448;index1.php?t=
+2449;index1.php?table= .php?table=
+2450;index1.php?texto=
+2451;index1.php?tipo=
+2452;index1.php?type=
+2453;index1.php?url=
+2454;index1.php?v=
+2455;index1.php?var=
+2456;index1.php?x=
+2457;index2.php?= "index2.php?="
+2458;index2.php?= "index2.php?=*.php?"
+2459;index2.php?= index2.php?=
+2460;index2.php?DoAction=
+2461;index2.php?ID=
+2462;index2.php?OpenPage=
+2463;index2.php?a=
+2464;index2.php?acao=
+2465;index2.php?action=
+2466;index2.php?adresa=
+2467;index2.php?arg= .php?arg=
+2468;index2.php?arq= .php?arq=
+2469;index2.php?ascii_seite=
+2470;index2.php?b=
+2471;index2.php?base_dir=
+2472;index2.php?basepath=
+2473;index2.php?c=
+2474;index2.php?c= .php?c="
+2475;index2.php?c= index2.php?c="
+2476;index2.php?cal=
+2477;index2.php?category=
+2478;index2.php?channel=
+2479;index2.php?chapter=
+2480;index2.php?choix=
+2481;index2.php?cmd=
+2482;index2.php?cont=
+2483;index2.php?cont= .php?cont="
+2484;index2.php?cont= index2.php?cont="
+2485;index2.php?content=
+2486;index2.php?content= 
+2487;index2.php?content= .php?content=
+2488;index2.php?content= .php?content="
+2489;index2.php?content= index2.php?cont="
+2490;index2.php?content= index2.php?content=
+2491;index2.php?content= index2.php?content="
+2492;index2.php?corpo=
+2493;index2.php?d=
+2494;index2.php?directfile=
+2495;index2.php?doshow=
+2496;index2.php?e=
+2497;index2.php?f=
+2498;index2.php?filepath=
+2499;index2.php?funcion=
+2500;index2.php?g=
+2501;index2.php?get=
+2502;index2.php?gorumdir=
+2503;index2.php?goto=
+2504;index2.php?h=
+2505;index2.php?home=
+2506;index2.php?i=
+2507;index2.php?i= /index2.php?i=
+2508;index2.php?in=
+2509;index2.php?inc=
+2510;index2.php?inc= .php?inc="
+2511;index2.php?incl=
+2512;index2.php?include=
+2513;index2.php?ir=
+2514;index2.php?itemnav=
+2515;index2.php?j=
+2516;index2.php?k=
+2517;index2.php?ki=
+2518;index2.php?l=
+2519;index2.php?l= .php?l="
+2520;index2.php?lang=
+2521;index2.php?language=
+2522;index2.php?left=
+2523;index2.php?lg= index.php?lg="
+2524;index2.php?link=
+2525;index2.php?lk= .php?lk="
+2526;index2.php?ll=
+2527;index2.php?ln= .php?ln="
+2528;index2.php?ln= index.php?ln="
+2529;index2.php?lng= index.php?lng="
+2530;index2.php?lnk=
+2531;index2.php?load=
+2532;index2.php?loader=
+2533;index2.php?loc=
+2534;index2.php?loca= .php?loca=
+2535;index2.php?loca= index2.php?loca=
+2536;index2.php?lv1=
+2537;index2.php?m=
+2538;index2.php?meio= .php?meio=
+2539;index2.php?module=
+2540;index2.php?my=
+2541;index2.php?n=
+2542;index2.php?o=
+2543;index2.php?oldal=
+2544;index2.php?open=
+2545;index2.php?option=
+2546;index2.php?p=
+2547;index2.php?pa=
+2548;index2.php?pag=
+2549;index2.php?pag= "/index2.php?pag=*.php"
+2550;index2.php?param=
+2551;index2.php?path= AKI
+2552;index2.php?pg=
+2553;index2.php?phpbb_root_path=
+2554;index2.php?pname=
+2555;index2.php?pollname=
+2556;index2.php?pre=
+2557;index2.php?pref=
+2558;index2.php?prefix=
+2559;index2.php?q=
+2560;index2.php?qry=
+2561;index2.php?r=
+2562;index2.php?recipe=
+2563;index2.php?redirect=
+2564;index2.php?ref=
+2565;index2.php?root_PATH=
+2566;index2.php?rub=
+2567;index2.php?s=
+2568;index2.php?s= .php?s="
+2569;index2.php?s= index2.php?s="
+2570;index2.php?second=
+2571;index2.php?section=
+2572;index2.php?sekce=
+2573;index2.php?server=
+2574;index2.php?showpage=
+2575;index2.php?strona=
+2576;index2.php?sub2=
+2577;index2.php?sub=
+2578;index2.php?t=
+2579;index2.php?table= .php?table=
+2580;index2.php?texto=
+2581;index2.php?theme=
+2582;index2.php?thispage=
+2583;index2.php?to=
+2584;index2.php?type=
+2585;index2.php?u=
+2586;index2.php?url_page=
+2587;index2.php?v=
+2588;index2.php?var=
+2589;index2.php?x=
+2590;index2.php?x= 
+2591;index2.php?x= .php?x=
+2592;index2.php?x= index2.php?x=
+2593;index2.php?y=
+2594;index2.php?z=
+2595;index2:php?aa=
+2596;index3.php?abre=
+2597;index3.php?addr=
+2598;index3.php?adresa=
+2599;index3.php?base_dir=
+2600;index3.php?body=
+2601;index3.php?channel=
+2602;index3.php?chapter=
+2603;index3.php?choix=
+2604;index3.php?cmd=
+2605;index3.php?d=
+2606;index3.php?destino=
+2607;index3.php?dir=
+2608;index3.php?disp=
+2609;index3.php?ev=
+2610;index3.php?get=
+2611;index3.php?go=
+2612;index3.php?home=
+2613;index3.php?inc=
+2614;index3.php?include=
+2615;index3.php?index=
+2616;index3.php?ir=
+2617;index3.php?itemnav=
+2618;index3.php?left=
+2619;index3.php?link=
+2620;index3.php?loader=
+2621;index3.php?menue=
+2622;index3.php?mid=
+2623;index3.php?middle=
+2624;index3.php?mod=
+2625;index3.php?my=
+2626;index3.php?name=
+2627;index3.php?nivel=
+2628;index3.php?oldal=
+2629;index3.php?open=
+2630;index3.php?option=
+2631;index3.php?p=
+2632;index3.php?pag=
+2633;index3.php?pageweb=
+2634;index3.php?panel=
+2635;index3.php?path=
+2636;index3.php?phpbb_root_path=
+2637;index3.php?pname=
+2638;index3.php?pollname=
+2639;index3.php?pre=
+2640;index3.php?pref=
+2641;index3.php?q=
+2642;index3.php?read=
+2643;index3.php?redirect=
+2644;index3.php?ref=
+2645;index3.php?rub=
+2646;index3.php?secao=
+2647;index3.php?secc=
+2648;index3.php?seccion=
+2649;index3.php?second=
+2650;index3.php?sekce=
+2651;index3.php?showpage=
+2652;index3.php?sivu=
+2653;index3.php?sp=
+2654;index3.php?start=
+2655;index3.php?t=
+2656;index3.php?thispage=
+2657;index3.php?tipo=
+2658;index3.php?type=
+2659;index3.php?url=
+2660;index3.php?var=
+2661;index3.php?x=
+2662;index3.php?xlink=
+2663;index3:php?aa=
+2664;index5.php?body=
+2665;index5.php?cat=
+2666;index5.php?configFile=
+2667;index5.php?cont=
+2668;index5.php?content=
+2669;index5.php?do=
+2670;index5.php?inc=
+2671;index5.php?include=
+2672;index5.php?lang=
+2673;index5.php?language=
+2674;index5.php?lv1=
+2675;index5.php?m=
+2676;index5.php?main=
+2677;index5.php?open=
+2678;index5.php?p=
+2679;index5.php?pag=
+2680;index5.php?page=
+2681;index5.php?pagina=
+2682;index5.php?pg=
+2683;index5.php?root=
+2684;index5.php?site=
+2685;index5.php?visualizar=
+2686;index5.php?x=
+2687;index_principal.php?pagina=
+2688;index_table.php?root_dir=
+2689;info.php?*
+2690;info.php?*[*]*=
+2691;info.php?adresa=
+2692;info.php?base_dir=
+2693;info.php?body=
+2694;info.php?c=
+2695;info.php?chapter=
+2696;info.php?content=
+2697;info.php?doshow=
+2698;info.php?ev=
+2699;info.php?eval=
+2700;info.php?f=
+2701;info.php?filepath=
+2702;info.php?go=
+2703;info.php?header=
+2704;info.php?home=
+2705;info.php?in=
+2706;info.php?incl=
+2707;info.php?ir=
+2708;info.php?itemnav=
+2709;info.php?j=
+2710;info.php?ki=
+2711;info.php?l=
+2712;info.php?ln= .php?ln="
+2713;info.php?ln= info.php?ln=
+2714;info.php?ln= info.php?ln="
+2715;info.php?loader=
+2716;info.php?menue=
+2717;info.php?mid=
+2718;info.php?middlePart=
+2719;info.php?o=
+2720;info.php?oldal=
+2721;info.php?op=
+2722;info.php?opcion=
+2723;info.php?option=
+2724;info.php?pageweb=
+2725;info.php?pagina=
+2726;info.php?param=
+2727;info.php?phpbb_root_path=
+2728;info.php?pname=
+2729;info.php?pref=
+2730;info.php?r=
+2731;info.php?read=
+2732;info.php?recipe=
+2733;info.php?redirect=
+2734;info.php?ref=
+2735;info.php?rub=
+2736;info.php?sec=
+2737;info.php?secao=
+2738;info.php?seccion=
+2739;info.php?start=
+2740;info.php?strona=
+2741;info.php?subject=
+2742;info.php?t=
+2743;info.php?texto=
+2744;info.php?url=
+2745;info.php?var=
+2746;info.php?xlink=
+2747;info.php?z=
+2748;init.inc.php?CPG_M_DIR=
+2749;init.php?HTTP_POST_VARS=
+2750;initdb.php?absolute_path=
+2751;iniziativa.php?in=
+2752;inst/index.php?lng=../../include/main.inc&G_PATH=
+2753;interna/tiny_mce/plugins/ibrowser/ibrowser.php?tinyMCE_imglib_include=
+2754;item_id=
+2755;jobs.cgi?a=9&t=
+2756;kalender.php?vis= .php?vis="
+2757;kalender.php?vis= kalender.php"
+2758;kalender.php?vis= kalender.php?vis="
+2759;kategorie.php4?id=
+2760;labels.php?id=
+2761;lang.php?arg= .php?arg=
+2762;lang.php?arq= .php?arq=
+2763;lang.php?lk= .php?lk="
+2764;lang.php?ln= .php?ln=
+2765;lang.php?subp= .php?sub="
+2766;lang.php?subp= .php?subp="
+2767;lang.php?subpage= .php?subpage="
+2768;latinbitz.cgi?t=
+2769;layout.php?OpenPage=
+2770;layout.php?abre=
+2771;layout.php?action=
+2772;layout.php?addr=
+2773;layout.php?basepath=
+2774;layout.php?c=
+2775;layout.php?category=
+2776;layout.php?chapter=
+2777;layout.php?choix=
+2778;layout.php?cmd=
+2779;layout.php?cont=
+2780;layout.php?disp=
+2781;layout.php?g=
+2782;layout.php?goto=
+2783;layout.php?incl=
+2784;layout.php?ir=
+2785;layout.php?link=
+2786;layout.php?loader=
+2787;layout.php?menue=
+2788;layout.php?modo=
+2789;layout.php?my=
+2790;layout.php?nivel=
+2791;layout.php?numero=
+2792;layout.php?oldal=
+2793;layout.php?opcion=
+2794;layout.php?page=
+2795;layout.php?pageweb=
+2796;layout.php?pagina=
+2797;layout.php?panel=
+2798;layout.php?path=
+2799;layout.php?play=
+2800;layout.php?pollname=
+2801;layout.php?pref=
+2802;layout.php?qry=
+2803;layout.php?secao=
+2804;layout.php?section=
+2805;layout.php?seite=
+2806;layout.php?sekce=
+2807;layout.php?strona=
+2808;layout.php?thispage=
+2809;layout.php?tipo=
+2810;layout.php?url=
+2811;layout.php?var=
+2812;layout.php?where=
+2813;layout.php?xlink=
+2814;layout.php?z=
+2815;lc.cgi?a=
+2816;lib.inc.php?pm_path=
+2817;lib.php?root=
+2818;lib/gore.php?libpath=
+2819;library/editor/editor.php?root=
+2820;library/editor/editor.php?root= 
+2821;library/lib.php?root=
+2822;library/lib.php?root= 
+2823;link.php?do= .php?do="
+2824;list.php?product= .php?product=
+2825;list.php?table= .php?table=
+2826;llindex.php?sub=
+2827;ln.php?ln= .php?ln=
+2828;loadpsb.php?id=
+2829;loc.php?l= .php?l="
+2830;loc.php?l= .php?loc="
+2831;loc.php?lang= .php?lang="
+2832;loc.php?lang= .php?loc="
+2833;loc.php?loc= .php?loc="
+2834;loc.php?loc= loc.php?loc="
+2835;login.php?dir=
+2836;login.php?loca= .php?loca=
+2837;look.php?ID=
+2838;m2f/m2f_phpbb204.php?m2f_root_path=
+2839;m2f/m2f_phpbb204.php?m2f_root_path= /m2f_usercp.php?
+2840;magazine.php?inc= .php?inc="
+2841;mai.php?act= mai.php?act=
+2842;mai.php?act= mai.php?act="
+2843;mai.php?loc= mai.php?loc=
+2844;mai.php?loc= mai.php?loc="
+2845;mai.php?src= mai.php?src=
+2846;mai.php?src= mai.php?src="
+2847;main.html.php?seite= .php?seite=
+2848;main.php3?act= .php3?act="
+2849;main.php3?act= main.php3?act="
+2850;main.php5?page= .php5?id=
+2851;main.php?a= .php?a="
+2852;main.php?action=
+2853;main.php?addr=
+2854;main.php?adresa=
+2855;main.php?arg= .php?arg=
+2856;main.php?ba= .php?ba="
+2857;main.php?ba= main.php?ba="
+2858;main.php?basepath=
+2859;main.php?body=
+2860;main.php?category=
+2861;main.php?chapter=
+2862;main.php?command= .php?command="
+2863;main.php?command= main.php?command="
+2864;main.php?content=
+2865;main.php?corpo=
+2866;main.php?d1= .php?d1="
+2867;main.php?d1= main.php?d1="
+2868;main.php?dir=
+2869;main.php?disp=
+2870;main.php?doshow=
+2871;main.php?e=
+2872;main.php?eval=
+2873;main.php?f1= .php?f1="
+2874;main.php?filepath=
+2875;main.php?fset= .php?fset="
+2876;main.php?goto=
+2877;main.php?h=
+2878;main.php?id=
+2879;main.php?id= "main.php?id=*.php"
+2880;main.php?inc=
+2881;main.php?inc= .php?inc="
+2882;main.php?include=
+2883;main.php?index=
+2884;main.php?ir=
+2885;main.php?itemnav=
+2886;main.php?j=
+2887;main.php?link=
+2888;main.php?ln= .php?ln=
+2889;main.php?load=
+2890;main.php?loc=
+2891;main.php?ltr= .php?ltr="
+2892;main.php?middle=
+2893;main.php?mod=
+2894;main.php?my=
+2895;main.php?name=
+2896;main.php?oldal=
+2897;main.php?opcion=
+2898;main.php?page=
+2899;main.php?page= 
+2900;main.php?page= "/main.php?page=*.php"
+2901;main.php?pagina=
+2902;main.php?param=
+2903;main.php?path=
+2904;main.php?pg=
+2905;main.php?pname=
+2906;main.php?pre=
+2907;main.php?pref=
+2908;main.php?r=
+2909;main.php?ref=
+2910;main.php?s= .php?s=
+2911;main.php?s= .php?s="
+2912;main.php?s= main.php?s=
+2913;main.php?s= main.php?s="
+2914;main.php?second=
+2915;main.php?section=
+2916;main.php?sit= .php?sit="
+2917;main.php?site=
+2918;main.php?start=
+2919;main.php?str=
+2920;main.php?strona=
+2921;main.php?subject=
+2922;main.php?table= .php?table=
+2923;main.php?thispage=
+2924;main.php?tipo=
+2925;main.php?type=
+2926;main.php?url=
+2927;main.php?v=
+2928;main.php?vis= .php?vis="
+2929;main.php?vis= main.php?vis=
+2930;main.php?vis= main.php?vis="
+2931;main.php?where=
+2932;main.php?x=
+2933;main.php?x= 
+2934;main.php?xlink=
+2935;main1.php?arg= .php?arg=
+2936;main1.php?ln= .php?ln=
+2937;main2.php?ln= .php?ln=
+2938;mainfile.php?MAIN_PATH=
+2939;mainfile.php?MAIN_PATH= 
+2940;map.php?loc= map.php?loc=
+2941;material.php?id=
+2942;mcf.php?content= "mcf.php"
+2943;mcf.php?content= mcf.php
+2944;mcf.php?content= mcf.php"
+2945;media.cgi?a=11&t=
+2946;media.php?page=
+2947;memberInfo.php?id=
+2948;middle.php?file= ".php?file="
+2949;middle.php?file= ".php?page="
+2950;middle.php?file= "middle.php?file="
+2951;middle.php?file= "middle.php?page="
+2952;middle.php?file= .php?file=
+2953;middle.php?file= .php?page=
+2954;middle.php?file= middle.php?file=
+2955;middle.php?file= middle.php?page=
+2956;middle.php?page= ".php?page="
+2957;middle.php?page= "middle.php?page="
+2958;middle.php?page= .php?page=
+2959;middle.php?page= middle.php?page=
+2960;misc.php?do= .php?do="
+2961;mod*.php?OpenPage=
+2962;mod*.php?action=
+2963;mod*.php?addr=
+2964;mod*.php?b=
+2965;mod*.php?channel=
+2966;mod*.php?chapter=
+2967;mod*.php?choix=
+2968;mod*.php?cont=
+2969;mod*.php?content=
+2970;mod*.php?corpo=
+2971;mod*.php?d=
+2972;mod*.php?destino=
+2973;mod*.php?dir=
+2974;mod*.php?ev=
+2975;mod*.php?goFile=
+2976;mod*.php?home=
+2977;mod*.php?incl=
+2978;mod*.php?include=
+2979;mod*.php?index=
+2980;mod*.php?ir=
+2981;mod*.php?j=
+2982;mod*.php?lang=
+2983;mod*.php?link=
+2984;mod*.php?m=
+2985;mod*.php?middle=
+2986;mod*.php?module=
+2987;mod*.php?numero=
+2988;mod*.php?oldal=
+2989;mod*.php?pag=
+2990;mod*.php?pageweb=
+2991;mod*.php?pagina=
+2992;mod*.php?path=
+2993;mod*.php?pg=
+2994;mod*.php?phpbb_root_path=
+2995;mod*.php?play=
+2996;mod*.php?pname=
+2997;mod*.php?pre=
+2998;mod*.php?qry=
+2999;mod*.php?recipe=
+3000;mod*.php?secao=
+3001;mod*.php?secc=
+3002;mod*.php?seccion=
+3003;mod*.php?section=
+3004;mod*.php?sekce=
+3005;mod*.php?start=
+3006;mod*.php?strona=
+3007;mod*.php?thispage=
+3008;mod*.php?tipo=
+3009;mod*.php?to=
+3010;mod*.php?v=
+3011;mod*.php?var=
+3012;mod.php?mod=
+3013;mod.php?mod= .php?mod="
+3014;mod.php?mod= mod.php?mod="
+3015;mod_mainmenu.php?mosConfig_absolute_path=
+3016;modul.php?mod= .php?mod="
+3017;modul.php?mod= modul.php?mod="
+3018;module.php?mod= .php?mod="
+3019;module.php?mod= module.php?mod="
+3020;module_db.php?pivot_path=
+3021;module_db.php?pivot_path= module_db.php?pivot_path="
+3022;modules.php?op=
+3023;modules/4nAlbum/public/displayCategory.php?basepath=
+3024;modules/4nAlbum/public/displayCategory.php?basepath= 
+3025;modules/MyGuests/signin.php?_AMGconfig[cfg_serverpath]=
+3026;modules/My_eGery/index.php?basepath=
+3027;modules/My_eGery/public/displayCategory.php?basepath=
+3028;modules/My_eGery/public/displayCategory.php?basepath= 
+3029;modules/agendax/addevent.inc.php?agendax_path=
+3030;modules/agendax/addevent.inc.php?agendax_path= 
+3031;modules/coppermine/include/init.inc.php?CPG_M_DIR=
+3032;modules/coppermine/include/init.inc.php?CPG_M_DIR= 
+3033;modules/coppermine/themes/coppercop/theme.php?THEME_DIR=
+3034;modules/coppermine/themes/default/theme.php?THEME_DIR=
+3035;modules/coppermine/themes/default/theme.php?THEME_DIR= 
+3036;modules/mod_mainmenu.php?mosConfig_absolute_path= 
+3037;modules/tasks/viewgantt.php?root_dir= 
+3038;modules/vwar/admin/admin.php?vwar_root=
+3039;modules/xgery/upgrade_album.php?GERY_BASEDIR=
+3040;modules/xgery/upgrade_album.php?GERY_BASEDIR= 
+3041;modules/xoopsgery/upgrade_album.php?GERY_BASEDIR=
+3042;modules/xoopsgery/upgrade_album.php?GERY_BASEDIR= 
+3043;more.php?sub= "more.php?sub="
+3044;more.php?sub= more.php?sub=
+3045;mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]=
+3046;myPHPCalendar/admin.php?cal_dir=
+3047;myPHPCalendar/admin.php?cal_dir= 
+3048;myevent.php?myevent_path=
+3049;nav.php?g= "nav.php?g="
+3050;nav.php?g= nav.php?g=
+3051;nav.php?go= "nav.php?go="
+3052;nav.php?go= nav.php?go=
+3053;nav.php?lk= .php?lk="
+3054;nav.php?ln= .php?ln=
+3055;nav.php?loc= .php?loc=
+3056;nav.php?loc= nav.php
+3057;nav.php?loc= nav.php?loc=
+3058;nav.php?nav= "nav.php?nav="
+3059;nav.php?nav= nav.php?nav=
+3060;nav.php?p= "nav.php?p="
+3061;nav.php?p= nav.php?p=
+3062;nav.php?pag= "nav.php?pag="
+3063;nav.php?pag= nav.php?pag=
+3064;nav.php?page= "nav.php?page="
+3065;nav.php?page= nav.php?page=
+3066;nav.php?pagina= "nav.php?pagina="
+3067;nav.php?pagina= nav.php?pagina=
+3068;nav.php?pg= "nav.php?pg="
+3069;nav.php?pg= nav.php?pg=
+3070;new-visitor.inc.php?lvc_include_dir=
+3071;news-full.php?id=
+3072;news.cgi?a=114&t=
+3073;news.cgi?a=latest&t=
+3074;news.cgi?t=
+3075;news.php?CONFIG[script_path]=
+3076;news.php?id=
+3077;newsDetail.php?id=
+3078;news_detail.php?file=
+3079;news_display.php?getid=
+3080;news_view.php?id=
+3081;newscat.php?id=
+3082;newsdesk.cgi?a=latest&t=
+3083;newsdesk.cgi?t=
+3084;newsid=
+3085;newsitem.php?num=
+3086;newsone.php?id=
+3087;newsticker_info.php?idn=
+3088;newsupdate.cgi?a=latest&t=
+3089;nota.php?OpenPage=
+3090;nota.php?abre=
+3091;nota.php?adresa=
+3092;nota.php?b=
+3093;nota.php?base_dir=
+3094;nota.php?basepath=
+3095;nota.php?category=
+3096;nota.php?channel=
+3097;nota.php?chapter=
+3098;nota.php?cmd=
+3099;nota.php?content=
+3100;nota.php?corpo=
+3101;nota.php?destino=
+3102;nota.php?disp=
+3103;nota.php?doshow=
+3104;nota.php?eval=
+3105;nota.php?filepath=
+3106;nota.php?get=
+3107;nota.php?goFile=
+3108;nota.php?h=
+3109;nota.php?header=
+3110;nota.php?home=
+3111;nota.php?in=
+3112;nota.php?inc=
+3113;nota.php?include=
+3114;nota.php?ir=
+3115;nota.php?itemnav=
+3116;nota.php?ki=
+3117;nota.php?lang=
+3118;nota.php?left=
+3119;nota.php?link=
+3120;nota.php?m=
+3121;nota.php?mid=
+3122;nota.php?mod=
+3123;nota.php?modo=
+3124;nota.php?module=
+3125;nota.php?n=
+3126;nota.php?nivel=
+3127;nota.php?oldal=
+3128;nota.php?opcion=
+3129;nota.php?option=
+3130;nota.php?pag=
+3131;nota.php?pagina=
+3132;nota.php?panel=
+3133;nota.php?pg=
+3134;nota.php?play=
+3135;nota.php?pollname=
+3136;nota.php?pr=
+3137;nota.php?pre=
+3138;nota.php?qry=
+3139;nota.php?rub=
+3140;nota.php?sec=
+3141;nota.php?secc=
+3142;nota.php?seccion=
+3143;nota.php?second=
+3144;nota.php?seite=
+3145;nota.php?sekce=
+3146;nota.php?showpage=
+3147;nota.php?subject=
+3148;nota.php?t=
+3149;nota.php?tipo=
+3150;nota.php?url=
+3151;nota.php?v=
+3152;noticias.php?arq=
+3153;ocp-103/index.php?req_path= ocPortal
+3154;offer.php?idf=
+3155;ogl_inet.php?ogl_id=
+3156;old_reports.php?file=
+3157;opinions.php?id=
+3158;order.php?l= order.php?l=
+3159;order.php?lang= order.php?lang=
+3160;order.php?list= order.php?list=
+3161;order.php?ln= order.php?ln=
+3162;order.php?p= order.php?p=
+3163;order.php?pag= order.php?pag=
+3164;order.php?page= order.php?page=
+3165;order.php?pg= order.php?pg=
+3166;order.php?wp= .php?wp=
+3167;order.php?wp= order.php?wp=
+3168;p.php?p= "p.php?p="
+3169;p.php?p= .php?p=
+3170;p.php?p= .php?p="
+3171;p.php?p= p.php?p=
+3172;p.php?p= p.php?p="
+3173;padrao.php?*
+3174;padrao.php?*[*]*=
+3175;padrao.php?*root*=
+3176;padrao.php?OpenPage=
+3177;padrao.php?a=
+3178;padrao.php?abre=
+3179;padrao.php?addr=
+3180;padrao.php?base_dir=
+3181;padrao.php?basepath=
+3182;padrao.php?body=
+3183;padrao.php?c=
+3184;padrao.php?choix=
+3185;padrao.php?cont=
+3186;padrao.php?corpo=
+3187;padrao.php?d=
+3188;padrao.php?destino=
+3189;padrao.php?eval=
+3190;padrao.php?filepath=
+3191;padrao.php?h=
+3192;padrao.php?header=
+3193;padrao.php?incl=
+3194;padrao.php?index=
+3195;padrao.php?ir=
+3196;padrao.php?link=
+3197;padrao.php?loc=
+3198;padrao.php?menu=
+3199;padrao.php?menue=
+3200;padrao.php?mid=
+3201;padrao.php?middle=
+3202;padrao.php?n=
+3203;padrao.php?name=
+3204;padrao.php?nivel=
+3205;padrao.php?oldal=
+3206;padrao.php?op=
+3207;padrao.php?open=
+3208;padrao.php?pag=
+3209;padrao.php?page=
+3210;padrao.php?path=
+3211;padrao.php?pname=
+3212;padrao.php?pre=
+3213;padrao.php?qry=
+3214;padrao.php?read=
+3215;padrao.php?redirect=
+3216;padrao.php?rub=
+3217;padrao.php?secao=
+3218;padrao.php?secc=
+3219;padrao.php?seccion=
+3220;padrao.php?section=
+3221;padrao.php?seite=
+3222;padrao.php?sekce=
+3223;padrao.php?sivu=
+3224;padrao.php?str=
+3225;padrao.php?strona=
+3226;padrao.php?subject=
+3227;padrao.php?texto=
+3228;padrao.php?tipo=
+3229;padrao.php?type=
+3230;padrao.php?u=
+3231;padrao.php?url=
+3232;padrao.php?var=
+3233;padrao.php?xlink=
+3234;page.php5?id= .php5?id=
+3235;page.php5?id= page.php5?id=
+3236;page.php?*
+3237;page.php?*[*]*=
+3238;page.php?OpenPage=
+3239;page.php?abre=
+3240;page.php?action=
+3241;page.php?addr=
+3242;page.php?adresa=
+3243;page.php?arq= .php?arq=
+3244;page.php?base_dir=
+3245;page.php?chapter=
+3246;page.php?choix=
+3247;page.php?cmd=
+3248;page.php?cont=
+3249;page.php?doc=
+3250;page.php?e=
+3251;page.php?ev=
+3252;page.php?eval=
+3253;page.php?file=
+3254;page.php?g=
+3255;page.php?go=
+3256;page.php?goto=
+3257;page.php?id=
+3258;page.php?inc=
+3259;page.php?incl=
+3260;page.php?ir=
+3261;page.php?left=
+3262;page.php?link=
+3263;page.php?ln= .php?ln=
+3264;page.php?load=
+3265;page.php?loader=
+3266;page.php?mid=
+3267;page.php?middle=
+3268;page.php?mod=
+3269;page.php?modo=
+3270;page.php?module=
+3271;page.php?numero=
+3272;page.php?oldal=
+3273;page.php?option=
+3274;page.php?p=
+3275;page.php?p= .php?p=
+3276;page.php?p= .php?p="
+3277;page.php?p= page.php?p=
+3278;page.php?p= page.php?p="
+3279;page.php?pa=
+3280;page.php?panel=
+3281;page.php?phpbb_root_path=
+3282;page.php?pname=
+3283;page.php?pref=
+3284;page.php?q=
+3285;page.php?qry=
+3286;page.php?read=
+3287;page.php?recipe=
+3288;page.php?redirect=
+3289;page.php?s= .php?s=
+3290;page.php?s= .php?s="
+3291;page.php?s= page.php?s=
+3292;page.php?s= page.php?s="
+3293;page.php?secao=
+3294;page.php?section=
+3295;page.php?seite=
+3296;page.php?showpage=
+3297;page.php?sivu=
+3298;page.php?strona=
+3299;page.php?subject=
+3300;page.php?tipo=
+3301;page.php?url=
+3302;page.php?where=
+3303;page.php?z=
+3304;pageid=
+3305;pages.php?id=
+3306;pages.php?page=
+3307;pagina.php?OpenPage=
+3308;pagina.php?base_dir=
+3309;pagina.php?basepath=
+3310;pagina.php?category=
+3311;pagina.php?channel=
+3312;pagina.php?chapter=
+3313;pagina.php?choix=
+3314;pagina.php?cmd=
+3315;pagina.php?dir=
+3316;pagina.php?ev=
+3317;pagina.php?filepath=
+3318;pagina.php?g=
+3319;pagina.php?go=
+3320;pagina.php?goto=
+3321;pagina.php?header=
+3322;pagina.php?home=
+3323;pagina.php?id=
+3324;pagina.php?in=
+3325;pagina.php?incl=
+3326;pagina.php?include=
+3327;pagina.php?index=
+3328;pagina.php?ir=
+3329;pagina.php?k=
+3330;pagina.php?lang=
+3331;pagina.php?left=
+3332;pagina.php?link=
+3333;pagina.php?load=
+3334;pagina.php?loader=
+3335;pagina.php?loc=
+3336;pagina.php?mid=
+3337;pagina.php?middlePart=
+3338;pagina.php?modo=
+3339;pagina.php?my=
+3340;pagina.php?n=
+3341;pagina.php?nivel=
+3342;pagina.php?numero=
+3343;pagina.php?oldal=
+3344;pagina.php?pagina=
+3345;pagina.php?panel=
+3346;pagina.php?path=
+3347;pagina.php?pr=
+3348;pagina.php?pre=
+3349;pagina.php?q=
+3350;pagina.php?read=
+3351;pagina.php?recipe=
+3352;pagina.php?ref=
+3353;pagina.php?sec=
+3354;pagina.php?secao=
+3355;pagina.php?seccion=
+3356;pagina.php?section=
+3357;pagina.php?sekce=
+3358;pagina.php?start=
+3359;pagina.php?str=
+3360;pagina.php?thispage=
+3361;pagina.php?tipo=
+3362;pagina.php?to=
+3363;pagina.php?type=
+3364;pagina.php?u=
+3365;pagina.php?v=
+3366;pagina.php?z=
+3367;participant.php?id=
+3368;path.php?*
+3369;path.php?*[*]*=
+3370;path.php?action=
+3371;path.php?addr=
+3372;path.php?adresa=
+3373;path.php?body=
+3374;path.php?category=
+3375;path.php?channel=
+3376;path.php?chapter=
+3377;path.php?cmd=
+3378;path.php?destino=
+3379;path.php?disp=
+3380;path.php?doshow=
+3381;path.php?ev=
+3382;path.php?eval=
+3383;path.php?filepath=
+3384;path.php?goto=
+3385;path.php?header=
+3386;path.php?home=
+3387;path.php?id=
+3388;path.php?in=
+3389;path.php?incl=
+3390;path.php?ir=
+3391;path.php?left=
+3392;path.php?link=
+3393;path.php?load=
+3394;path.php?loader=
+3395;path.php?menue=
+3396;path.php?mid=
+3397;path.php?middle=
+3398;path.php?middlePart=
+3399;path.php?my=
+3400;path.php?nivel=
+3401;path.php?numero=
+3402;path.php?opcion=
+3403;path.php?option=
+3404;path.php?p=
+3405;path.php?pageweb=
+3406;path.php?panel=
+3407;path.php?path=
+3408;path.php?play=
+3409;path.php?pname=
+3410;path.php?pre=
+3411;path.php?pref=
+3412;path.php?qry=
+3413;path.php?recipe=
+3414;path.php?sec=
+3415;path.php?secao=
+3416;path.php?sivu=
+3417;path.php?sp=
+3418;path.php?start=
+3419;path.php?strona=
+3420;path.php?subject=
+3421;path.php?thispage=
+3422;path.php?tipo=
+3423;path.php?type=
+3424;path.php?var=
+3425;path.php?where=
+3426;path.php?xlink=
+3427;path.php?y=
+3428;path/index.php?function=custom&custom= path
+3429;path_of_cpcommerce/_functions.php?prefix
+3430;path_of_cpcommerce/_functions.php?prefix 
+3431;path_of_cpcommerce/_functions.php?prefix=
+3432;path_of_cpcommerce/_functions.php?prefix= 
+3433;person.php?id=
+3434;phpshop/index.php?base_dir=
+3435;phpshop/index.php?base_dir= 
+3436;phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root=
+3437;phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root= "index.php?id="
+3438;phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root= "phpwcms/index.php?id="
+3439;phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root= index.php?id=
+3440;phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root= phpwcms/index.php?id=
+3441;pipe.php?HCL_path=
+3442;pivot/modules/module_db.php?pivot_path=
+3443;pivot/modules/module_db.php?pivot_path= 
+3444;play_old.php?id=
+3445;pm/lib.inc.php?pm_path=
+3446;pm/lib.inc.php?pm_path= 
+3447;pop.php?id=
+3448;port.php?content=
+3449;post.php?id=
+3450;powerup.cgi?a=latest&t=
+3451;press.php?*
+3452;press.php?*[*]*=
+3453;press.php?*root*=
+3454;press.php?OpenPage=
+3455;press.php?abre=
+3456;press.php?addr=
+3457;press.php?base_dir=
+3458;press.php?category=
+3459;press.php?channel=
+3460;press.php?destino=
+3461;press.php?dir=
+3462;press.php?ev=
+3463;press.php?get=
+3464;press.php?goFile=
+3465;press.php?home=
+3466;press.php?i=
+3467;press.php?id=
+3468;press.php?inc=
+3469;press.php?incl=
+3470;press.php?include=
+3471;press.php?ir=
+3472;press.php?itemnav=
+3473;press.php?lang=
+3474;press.php?link=
+3475;press.php?loader=
+3476;press.php?menu=
+3477;press.php?mid=
+3478;press.php?middle=
+3479;press.php?modo=
+3480;press.php?module=
+3481;press.php?my=
+3482;press.php?nivel=
+3483;press.php?opcion=
+3484;press.php?option=
+3485;press.php?pa=
+3486;press.php?page=
+3487;press.php?pageweb=
+3488;press.php?pagina=
+3489;press.php?panel=
+3490;press.php?param=
+3491;press.php?path=
+3492;press.php?pg=
+3493;press.php?pname=
+3494;press.php?pr=
+3495;press.php?pref=
+3496;press.php?redirect=
+3497;press.php?rub=
+3498;press.php?second=
+3499;press.php?seite=
+3500;press.php?strona=
+3501;press.php?subject=
+3502;press.php?t=
+3503;press.php?thispage=
+3504;press.php?to=
+3505;press.php?type=
+3506;press.php?where=
+3507;press.php?xlink=
+3508;presse.php?do= .php?do="
+3509;presse.php?do= presse.php?do="
+3510;preview.php?id=
+3511;principal.php?abre=
+3512;principal.php?addr=
+3513;principal.php?b=
+3514;principal.php?basepath=
+3515;principal.php?choix=
+3516;principal.php?cont=
+3517;principal.php?conteudo=
+3518;principal.php?corpo=
+3519;principal.php?d=
+3520;principal.php?destino=
+3521;principal.php?disp=
+3522;principal.php?ev=
+3523;principal.php?eval=
+3524;principal.php?f=
+3525;principal.php?filepath=
+3526;principal.php?goto=
+3527;principal.php?header=
+3528;principal.php?home=
+3529;principal.php?id=
+3530;principal.php?in=
+3531;principal.php?inc=
+3532;principal.php?index=
+3533;principal.php?ir=
+3534;principal.php?ki=
+3535;principal.php?l=
+3536;principal.php?left=
+3537;principal.php?link=
+3538;principal.php?load=
+3539;principal.php?loader=
+3540;principal.php?loc=
+3541;principal.php?menue=
+3542;principal.php?middle=
+3543;principal.php?middlePart=
+3544;principal.php?module=
+3545;principal.php?my=
+3546;principal.php?n=
+3547;principal.php?nivel=
+3548;principal.php?oldal=
+3549;principal.php?opcion=
+3550;principal.php?p=
+3551;principal.php?pag=
+3552;principal.php?pagina=
+3553;principal.php?param=
+3554;principal.php?phpbb_root_path=
+3555;principal.php?pollname=
+3556;principal.php?pr=
+3557;principal.php?pre=
+3558;principal.php?pref=
+3559;principal.php?q=
+3560;principal.php?read=
+3561;principal.php?recipe=
+3562;principal.php?ref=
+3563;principal.php?rub=
+3564;principal.php?s=
+3565;principal.php?secc=
+3566;principal.php?seccion=
+3567;principal.php?seite=
+3568;principal.php?strona=
+3569;principal.php?subject=
+3570;principal.php?tipo=
+3571;principal.php?to=
+3572;principal.php?type=
+3573;principal.php?url=
+3574;principal.php?viewpage=
+3575;principal.php?w=
+3576;principal.php?z=
+3577;print.php?*root*=
+3578;print.php?OpenPage=
+3579;print.php?addr=
+3580;print.php?base_dir=
+3581;print.php?basepath=
+3582;print.php?category=
+3583;print.php?chapter=
+3584;print.php?choix=
+3585;print.php?cont=
+3586;print.php?dir=
+3587;print.php?disp=
+3588;print.php?doshow=
+3589;print.php?g=
+3590;print.php?goFile=
+3591;print.php?goto=
+3592;print.php?header=
+3593;print.php?in=
+3594;print.php?inc=
+3595;print.php?itemnav=
+3596;print.php?ki=
+3597;print.php?l=
+3598;print.php?left=
+3599;print.php?link=
+3600;print.php?loc=
+3601;print.php?menu=
+3602;print.php?menue=
+3603;print.php?middle=
+3604;print.php?middlePart=
+3605;print.php?module=
+3606;print.php?my=
+3607;print.php?name=
+3608;print.php?numero=
+3609;print.php?opcion=
+3610;print.php?open=
+3611;print.php?option=
+3612;print.php?pag=
+3613;print.php?page=
+3614;print.php?pager= .php?pager=
+3615;print.php?pager= print.php?pager=
+3616;print.php?param=
+3617;print.php?path=
+3618;print.php?play=
+3619;print.php?pname=
+3620;print.php?pollname=
+3621;print.php?pre=
+3622;print.php?r=
+3623;print.php?read=
+3624;print.php?rub=
+3625;print.php?s=
+3626;print.php?sekce=
+3627;print.php?sivu=
+3628;print.php?sp=
+3629;print.php?str=
+3630;print.php?strona=
+3631;print.php?table= .php?table=
+3632;print.php?thispage=
+3633;print.php?tipo=
+3634;print.php?type=
+3635;print.php?u=
+3636;print.php?where=
+3637;prod.php?prod= .php?prod="
+3638;prod_detail.php?id=
+3639;prod_info.php?id=
+3640;proddetail.php?prod= .php?prod="
+3641;product-item.php?id=
+3642;product.php?id=
+3643;product_ranges_view.php?ID=
+3644;productdetail.php?id=
+3645;productinfo.php?id=
+3646;products.php?prod= .php?prod="
+3647;produit.php?id=
+3648;produit.php?prod= .php?prod="
+3649;produkt.php?prod= .php?prod="
+3650;profile_view.php?id=
+3651;publications.php?id=
+3652;ray.php?id=
+3653;read.php?id=
+3654;readnews.php?id=
+3655;reagir.php?num=
+3656;releases.php?id=
+3657;reporter.cgi?t=
+3658;reports.php?sub= "reports.php?sub="
+3659;reports.php?sub= reports.php?sub=
+3660;review.php?id=
+3661;rfi of this dork: /embed/day.php?path=
+3662;rfi of this dork: /includes/dbal.php?eqdkp_root_path=
+3663;rfi of this dork: enc/content.php?Home_Path=
+3664;rfi to rhis dork: /coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]=
+3665;rfi to this dork: /classes/adodbt/sql.php?classes_dir=
+3666;rfi to this dork: /header.php?abspath=
+3667;rfi to this dork: /main.php?sayfa=
+3668;rfi to this dork: /mcf.php?content=
+3669;rfi to this dork: /sources/functions.php?CONFIG[main_path]=
+3670;rfi to this dork: /sources/template.php?CONFIG[main_path]=
+3671;rfi to this dork: /surveys/survey.inc.php?path=
+3672;rss.php?phpraid_dir= ""$2-"
+3673;rss.php?phpraid_dir= "php raid"
+3674;rss.php?phpraid_dir= php raid
+3675;rss.php?phpraid_dir= phpraid
+3676;rss.php?phpraid_dir= phpraid"
+3677;rub.php?idr=
+3678;rubp.php?idr=
+3679;rubrika.php?idr=
+3680;s.php?table= .php?table=
+3681;s1.php?ln= .php?ln=
+3682;search.php?cutepath=
+3683;search.php?exec= search.php?exec=
+3684;section.php?id=
+3685;secure_img_render.php?p=
+3686;select_biblio.php?id=
+3687;sem.php3?id=
+3688;send_reminders.php?includedir=
+3689;send_reminders.php?includedir= "send_reminders.php?includedir="
+3690;sendpage.php?page=
+3691;services.php?page=
+3692;shop.php?do=part&id=
+3693;shop.php?prod= .php?prod="
+3694;shop.pl/page=
+3695;shop.pl/page= shop.pl/page=
+3696;shop_category.php?id=
+3697;shopping.php?id=
+3698;shoutbox/expanded.php?conf=
+3699;shoutbox/expanded.php?conf= 
+3700;show.php?*root*=
+3701;show.php?abre=
+3702;show.php?adresa=
+3703;show.php?b=
+3704;show.php?base_dir=
+3705;show.php?channel=
+3706;show.php?chapter=
+3707;show.php?cmd=
+3708;show.php?corpo=
+3709;show.php?d=
+3710;show.php?disp=
+3711;show.php?filepath=
+3712;show.php?get=
+3713;show.php?go=
+3714;show.php?header=
+3715;show.php?home=
+3716;show.php?id=
+3717;show.php?inc=
+3718;show.php?incl=
+3719;show.php?include=
+3720;show.php?index=
+3721;show.php?ir=
+3722;show.php?j=
+3723;show.php?ki=
+3724;show.php?l=
+3725;show.php?left=
+3726;show.php?loader=
+3727;show.php?m=
+3728;show.php?mid=
+3729;show.php?middlePart=
+3730;show.php?modo=
+3731;show.php?module=
+3732;show.php?my=
+3733;show.php?n=
+3734;show.php?nivel=
+3735;show.php?oldal=
+3736;show.php?page1= .php?page1="
+3737;show.php?page=
+3738;show.php?pageweb=
+3739;show.php?pagina=
+3740;show.php?param=
+3741;show.php?path=
+3742;show.php?play=
+3743;show.php?pname=
+3744;show.php?pre=
+3745;show.php?product= .php?product=
+3746;show.php?product= show.php?product=
+3747;show.php?qry=
+3748;show.php?r=
+3749;show.php?read=
+3750;show.php?recipe=
+3751;show.php?redirect=
+3752;show.php?seccion=
+3753;show.php?second=
+3754;show.php?sp=
+3755;show.php?thispage=
+3756;show.php?to=
+3757;show.php?type=
+3758;show.php?x=
+3759;show.php?xlink=
+3760;show.php?z=
+3761;show_an.php?id=
+3762;show_news.php?cutepath=
+3763;showimg.php?id=
+3764;shredder-categories.php?id=
+3765;side.php?arq= .php?arq=
+3766;side.php?table= .php?table=
+3767;side.php?vis= .php?vis=
+3768;side.php?vis= side.php?vis=
+3769;site.php?arq= .php?arq=
+3770;site.php?meio= .php?meio=
+3771;site.php?table= .php?table=
+3772;sitio.php?*root*=
+3773;sitio.php?abre=
+3774;sitio.php?addr=
+3775;sitio.php?body=
+3776;sitio.php?category=
+3777;sitio.php?chapter=
+3778;sitio.php?content=
+3779;sitio.php?destino=
+3780;sitio.php?disp=
+3781;sitio.php?doshow=
+3782;sitio.php?e=
+3783;sitio.php?ev=
+3784;sitio.php?get=
+3785;sitio.php?go=
+3786;sitio.php?goFile=
+3787;sitio.php?inc=
+3788;sitio.php?incl=
+3789;sitio.php?index=
+3790;sitio.php?ir=
+3791;sitio.php?left=
+3792;sitio.php?menu=
+3793;sitio.php?menue=
+3794;sitio.php?mid=
+3795;sitio.php?middlePart=
+3796;sitio.php?modo=
+3797;sitio.php?name=
+3798;sitio.php?nivel=
+3799;sitio.php?oldal=
+3800;sitio.php?opcion=
+3801;sitio.php?option=
+3802;sitio.php?pageweb=
+3803;sitio.php?param=
+3804;sitio.php?pg=
+3805;sitio.php?pr=
+3806;sitio.php?qry=
+3807;sitio.php?r=
+3808;sitio.php?read=
+3809;sitio.php?recipe=
+3810;sitio.php?redirect=
+3811;sitio.php?rub=
+3812;sitio.php?sec=
+3813;sitio.php?secao=
+3814;sitio.php?secc=
+3815;sitio.php?section=
+3816;sitio.php?sivu=
+3817;sitio.php?sp=
+3818;sitio.php?start=
+3819;sitio.php?strona=
+3820;sitio.php?t=
+3821;sitio.php?texto=
+3822;sitio.php?tipo=
+3823;skins/advanced/advanced1.php?pluginpath[0]=
+3824;skins/advanced/advanced1.php?pluginpath[0]= "Sabdrimer CMS"
+3825;skins/advanced/advanced1.php?pluginpath[0]= "Sabdrimer"
+3826;skins/advanced/advanced1.php?pluginpath[0]= Sabdrimer
+3827;skins/advanced/advanced1.php?pluginpath[0]= Sabdrimer CMS
+3828;skins/advanced/advanced1.php?pluginpath[0]= skins/advanced/advanced1.php?pluginpath[0]= "CMS"
+3829;skins/advanced/advanced1.php?pluginpath[0]= skins/advanced/advanced1.php?pluginpath[0]= "Sabdrimer CMS"
+3830;smarty_config.php?root_dir=
+3831;smarty_config.php?root_dir= "smarty"
+3832;solpot.html?body=
+3833;sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]=
+3834;spr.php?id=
+3835;sql.php?id=
+3836;staff_id=
+3837;standard.php?*
+3838;standard.php?*[*]*=
+3839;standard.php?abre=
+3840;standard.php?action=
+3841;standard.php?base_dir=
+3842;standard.php?body=
+3843;standard.php?channel=
+3844;standard.php?chapter=
+3845;standard.php?cmd=
+3846;standard.php?cont=
+3847;standard.php?destino=
+3848;standard.php?dir=
+3849;standard.php?e=
+3850;standard.php?ev=
+3851;standard.php?eval=
+3852;standard.php?go=
+3853;standard.php?goFile=
+3854;standard.php?goto=
+3855;standard.php?home=
+3856;standard.php?in=
+3857;standard.php?include=
+3858;standard.php?index=
+3859;standard.php?j=
+3860;standard.php?lang=
+3861;standard.php?link=
+3862;standard.php?menu=
+3863;standard.php?middle=
+3864;standard.php?my=
+3865;standard.php?name=
+3866;standard.php?numero=
+3867;standard.php?oldal=
+3868;standard.php?op=
+3869;standard.php?open=
+3870;standard.php?pagina=
+3871;standard.php?panel=
+3872;standard.php?param=
+3873;standard.php?phpbb_root_path=
+3874;standard.php?pollname=
+3875;standard.php?pr=
+3876;standard.php?pre=
+3877;standard.php?pref=
+3878;standard.php?q=
+3879;standard.php?qry=
+3880;standard.php?ref=
+3881;standard.php?s=
+3882;standard.php?secc=
+3883;standard.php?seccion=
+3884;standard.php?section=
+3885;standard.php?showpage=
+3886;standard.php?sivu=
+3887;standard.php?str=
+3888;standard.php?subject=
+3889;standard.php?url=
+3890;standard.php?var=
+3891;standard.php?viewpage=
+3892;standard.php?w=
+3893;standard.php?where=
+3894;standard.php?xlink=
+3895;standard.php?z=
+3896;start.php?*root*=
+3897;start.php?abre=
+3898;start.php?addr=
+3899;start.php?adresa=
+3900;start.php?b=
+3901;start.php?base_dir=
+3902;start.php?basepath=
+3903;start.php?body=
+3904;start.php?chapter=
+3905;start.php?cmd=
+3906;start.php?corpo=
+3907;start.php?destino=
+3908;start.php?eval=
+3909;start.php?go=
+3910;start.php?header=
+3911;start.php?home=
+3912;start.php?id= .php?id="
+3913;start.php?id= start.php?id=
+3914;start.php?id= start.php?id="
+3915;start.php?in=
+3916;start.php?include=
+3917;start.php?index=
+3918;start.php?ir=
+3919;start.php?lang=
+3920;start.php?lang= .php?lang=
+3921;start.php?lang= .php?lang="
+3922;start.php?lang= start.php?lang=
+3923;start.php?lang= start.php?lang="
+3924;start.php?load=
+3925;start.php?loader=
+3926;start.php?mid=
+3927;start.php?mod= .php?mod="
+3928;start.php?mod= start.php?mod="
+3929;start.php?modo=
+3930;start.php?module=
+3931;start.php?name=
+3932;start.php?nivel=
+3933;start.php?o=
+3934;start.php?oldal=
+3935;start.php?op=
+3936;start.php?option=
+3937;start.php?p=
+3938;start.php?p= start.php?p=
+3939;start.php?pag= start.php?pag=
+3940;start.php?page= .php?page="
+3941;start.php?page= start.php?page=
+3942;start.php?page= start.php?page="
+3943;start.php?pageweb=
+3944;start.php?panel=
+3945;start.php?param=
+3946;start.php?pg=
+3947;start.php?pg= start.php?pg=
+3948;start.php?play=
+3949;start.php?pname=
+3950;start.php?pollname=
+3951;start.php?rub=
+3952;start.php?s= .php?s="
+3953;start.php?s= start.php?s=
+3954;start.php?s= start.php?s="
+3955;start.php?secao=
+3956;start.php?seccion=
+3957;start.php?seite=
+3958;start.php?showpage=
+3959;start.php?sivu=
+3960;start.php?sp=
+3961;start.php?str=
+3962;start.php?strona=
+3963;start.php?thispage=
+3964;start.php?tipo=
+3965;start.php?where=
+3966;start.php?xlink=
+3967;start_lobby.php?CONFIG[MWCHAT_Libs]=
+3968;step_one.php?server_inc=
+3969;step_one_tables.php?server_inc=
+3970;story.php?id=
+3971;str.php?l= str.php?l=
+3972;str.php?lang= str.php?lang=
+3973;str.php?ln= str.php?ln=
+3974;str.php?p= str.php?p=
+3975;str.php?page= str.php?page=
+3976;sub*.php?*
+3977;sub*.php?*[*]*=
+3978;sub*.php?*root*=
+3979;sub*.php?OpenPage=
+3980;sub*.php?abre=
+3981;sub*.php?action=
+3982;sub*.php?adresa=
+3983;sub*.php?b=
+3984;sub*.php?base_dir=
+3985;sub*.php?basepath=
+3986;sub*.php?body=
+3987;sub*.php?category=
+3988;sub*.php?channel=
+3989;sub*.php?chapter=
+3990;sub*.php?cont=
+3991;sub*.php?content=
+3992;sub*.php?corpo=
+3993;sub*.php?destino=
+3994;sub*.php?g=
+3995;sub*.php?go=
+3996;sub*.php?goFile=
+3997;sub*.php?header=
+3998;sub*.php?id=
+3999;sub*.php?include=
+4000;sub*.php?ir=
+4001;sub*.php?itemnav=
+4002;sub*.php?j=
+4003;sub*.php?k=
+4004;sub*.php?lang=
+4005;sub*.php?left=
+4006;sub*.php?link=
+4007;sub*.php?load=
+4008;sub*.php?menue=
+4009;sub*.php?mid=
+4010;sub*.php?middle=
+4011;sub*.php?mod=
+4012;sub*.php?modo=
+4013;sub*.php?module=
+4014;sub*.php?my=
+4015;sub*.php?name=
+4016;sub*.php?oldal=
+4017;sub*.php?op=
+4018;sub*.php?open=
+4019;sub*.php?option=
+4020;sub*.php?pa=
+4021;sub*.php?pag=
+4022;sub*.php?panel=
+4023;sub*.php?path=
+4024;sub*.php?phpbb_root_path=
+4025;sub*.php?play=
+4026;sub*.php?pname=
+4027;sub*.php?pre=
+4028;sub*.php?qry=
+4029;sub*.php?recipe=
+4030;sub*.php?rub=
+4031;sub*.php?s=
+4032;sub*.php?sec=
+4033;sub*.php?secao=
+4034;sub*.php?secc=
+4035;sub*.php?seite=
+4036;sub*.php?sp=
+4037;sub*.php?str=
+4038;sub*.php?thispage=
+4039;sub*.php?u=
+4040;sub*.php?viewpage=
+4041;sub*.php?where=
+4042;sub*.php?z=
+4043;sub.php?menu= "sub.php?menu="
+4044;sub.php?menu= sub.php?menu=
+4045;sub.php?s= "sub.php?s="
+4046;sub.php?s= sub.php?s=
+4047;sub.php?sub= "sub.php?sub="
+4048;sub.php?sub= sub.php?sub=
+4049;support/mailling/maillist/inc/initdb.php?absolute_path=
+4050;support/mailling/maillist/inc/initdb.php?absolute_path= 
+4051;support_page.cgi?file_name=           
+4052;sw_comment.php?id=
+4053;task.php?task= .php?task=
+4054;task.php?task= task.php?task=
+4055;tekst.php?idt=
+4056;template.php?*
+4057;template.php?*[*]*=
+4058;template.php?a=
+4059;template.php?addr=
+4060;template.php?base_dir=
+4061;template.php?basepath=
+4062;template.php?c=
+4063;template.php?choix=
+4064;template.php?cont=
+4065;template.php?content=
+4066;template.php?corpo=
+4067;template.php?dir=
+4068;template.php?doshow=
+4069;template.php?e=
+4070;template.php?f=
+4071;template.php?goto=
+4072;template.php?h=
+4073;template.php?header=
+4074;template.php?ir=
+4075;template.php?k=
+4076;template.php?lang=
+4077;template.php?left=
+4078;template.php?load=
+4079;template.php?menue=
+4080;template.php?mid=
+4081;template.php?mod=
+4082;template.php?name=
+4083;template.php?nivel=
+4084;template.php?op=
+4085;template.php?opcion=
+4086;template.php?pag=
+4087;template.php?page=
+4088;template.php?page= "/template.php?page=*.php"
+4089;template.php?pagina
+4090;template.php?pagina 
+4091;template.php?pagina=
+4092;template.php?panel=
+4093;template.php?param=
+4094;template.php?path=
+4095;template.php?play=
+4096;template.php?pre=
+4097;template.php?qry=
+4098;template.php?ref=
+4099;template.php?s=
+4100;template.php?secao=
+4101;template.php?second=
+4102;template.php?section=
+4103;template.php?seite=
+4104;template.php?sekce=
+4105;template.php?showpage=
+4106;template.php?sp=
+4107;template.php?str=
+4108;template.php?t=
+4109;template.php?texto=
+4110;template.php?thispage=
+4111;template.php?tipo=
+4112;template.php?viewpage=
+4113;template.php?where=
+4114;template.php?y=
+4115;test.php?page=
+4116;theme.php?THEME_DIR=
+4117;theme.php?id=
+4118;title.php?id=
+4119;tools/send_reminders.php?includedir=
+4120;top10.php?cat=
+4121;tradeCategory.php?id=
+4122;trainers.php?id=
+4123;trans.php?trans= .php?trans="
+4124;trans.php?trans= trans.php?trans="
+4125;transcript.php?id=
+4126;upgrade_album.php?GERY_BASEDIR=
+4127;video.php?content=
+4128;view.php?*
+4129;view.php?*[*]*=
+4130;view.php?adresa=
+4131;view.php?b=
+4132;view.php?body=
+4133;view.php?channel=
+4134;view.php?chapter=
+4135;view.php?choix=
+4136;view.php?cmd=
+4137;view.php?content=
+4138;view.php?disp=
+4139;view.php?get=
+4140;view.php?go=
+4141;view.php?goFile=
+4142;view.php?goto=
+4143;view.php?header=
+4144;view.php?id=
+4145;view.php?incl=
+4146;view.php?ir=
+4147;view.php?ki=
+4148;view.php?lang=
+4149;view.php?load=
+4150;view.php?loader=
+4151;view.php?mid=
+4152;view.php?middle=
+4153;view.php?mod=
+4154;view.php?oldal=
+4155;view.php?option=
+4156;view.php?pag=
+4157;view.php?page=
+4158;view.php?panel=
+4159;view.php?pg=
+4160;view.php?phpbb_root_path=
+4161;view.php?pollname=
+4162;view.php?pr=
+4163;view.php?qry=
+4164;view.php?recipe=
+4165;view.php?redirect=
+4166;view.php?root_dir=
+4167;view.php?sec=
+4168;view.php?secao=
+4169;view.php?seccion=
+4170;view.php?second=
+4171;view.php?seite=
+4172;view.php?showpage=
+4173;view.php?sp=
+4174;view.php?str=
+4175;view.php?sub= "view.php?sub="
+4176;view.php?sub= view.php?sub=
+4177;view.php?table= .php?table=
+4178;view.php?to=
+4179;view.php?type=
+4180;view.php?u=
+4181;view.php?var=
+4182;view.php?where=
+4183;view_faq.php?id=
+4184;view_product.php?id=
+4185;viewapp.php?id=
+4186;viewgantt.php?root_dir=
+4187;viewphoto.php?id=
+4188;viewshowdetail.php?id=
+4189;voir.php?inc= .php?inc="
+4190;vote.pl?action=show&id=
+4191;vw_files.php?root_dir=
+4192;wamp_dir/setup/yesno.phtml?no_url=
+4193;wamp_dir/setup/yesno.phtml?no_url= "setup"
+4194;website.php?id=
+4195;werbungFrame.php?do= .php?do="
+4196;whereami.cgi?g=id 
+4197;word.php?id=
+4198;write.php?dir=
+4199;yabbse/Sources/Packages.php?sourcedir=
+4200;yabbse/Sources/Packages.php?sourcedir= 
+4201;yahoo = by Kietu? v 3.2
+4202;zboard/zboard.php
+4203;zboard/zboard.php 
